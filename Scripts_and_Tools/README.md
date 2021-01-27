@@ -1,1 +1,18 @@
-### A place for command line scripts, utilities, etc
+## A place for command line scripts, utilities, etc
+
+### Command line for tests I've been using locally:
+
+iperf3 with two streams-
+```
+iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream1 -p 5101
+iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream2 -p 5102
+```
+bbcp-
+```
+bbcp -v -f -P 8 -r -s 4 -F <CLIENT FILESYSEM>/100G.dat <TARGET DTN>:<TARGET FILESYSTEM>
+```  
+Also you can say:
+```
+bbcp -v -f -P 8 -r -s 4 -F <CLIENT FILESYSEM>/nsf21-528-100g <TARGET DTN>:<TARGET FILESYSTEM>
+```
+That will copy the nsf21-528-100g directory and all it's contents to the target.
