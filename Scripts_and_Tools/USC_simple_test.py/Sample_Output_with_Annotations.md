@@ -1,3 +1,6 @@
+Scroll down to see notes-
+
+```
 $ ./simple_test.py
 Enter test description: "Test run on local LAN at USC."
 Test(s) to run ("iperf3"/"bbcp"/"all"): all
@@ -88,3 +91,4 @@ Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec  376             
 Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec                  receiver
 Stream2:
 Stream2:  iperf Done.
+```
