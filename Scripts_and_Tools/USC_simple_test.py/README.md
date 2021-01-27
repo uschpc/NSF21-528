@@ -4,11 +4,13 @@ This is not the most beautiful Python script anybody has ever written but I've f
 
 ### Customize target (server) node and files to transfer
 
-Near the top, change the DEST variable to the target node for transfers. Around line 27, change the path to the test data for transfers. In this example I'm transferring a 100G.dat, and the contents of a directory called '/mnt/chris_xfer/nsf21-528-100g'. On the next line change DESTfile to where files will be copied. Please customize for your DTN.
+Near the top, change the DEST variable to the target node for transfers. Around line 27, change the path to the test data for transfers. In this example I'm transferring a 100G.dat, and the contents of a directory called '/mnt/chris_xfer/nsf21-528-100g'. On the next line change DESTfile to where files will be copied on the target (server) node. Please customize for your DTN.
+
+This example is using one of our other DTNs at USC as the target, not the hpc-mdtn2.usc.edu we'll be using for the NSF testing.
 
 ### Requirements on target DTN
 
-Besides iperf3 and bbcp being installed, you need an account on the target DTN for bbcp to write the files in the filesystem path specified in 'DESTfile'.
+Besides iperf3 and bbcp being installed, you need an account on the target DTN for bbcp to write the files in the filesystem path specified in 'DESTfile'. I use my userid with a SSH key installed for passwordless access.
 
 This script runs two parallel iperf3 streams on ports 5101 and 5102, so on the target (server) DTN, run a command something like
 ```
