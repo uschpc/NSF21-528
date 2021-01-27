@@ -108,6 +108,6 @@ Add the results from these two streams together:
 Stream1:  [SUM]   0.00-20.00  sec  50.7 GBytes  21.8 Gbits/sec  422             sender
 Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec  376             sender
 ```
-So, I got 21.8 + 21.1 GBits/sec for 42.9 GBits/sec. Also take a note of the retries (Retr) in the 2nd to last column. I get those when I'm saturating some part of the flow (but sometimes is kind of hard to tell what part- it could one of the many network hops, TCP or OS buffers on one of the endpoints... that's all part of the fun).
+So, I got 21.8 + 21.1 GBits/sec for 42.9 GBits/sec. Also take note of the retries (Retr) in the 2nd to last column. I get those when I'm saturating some part of the flow (but sometimes it's kind of hard to tell what part- it could be one of the many network hops, TCP or OS buffers on one of the endpoints... that's all part of the fun).
 
 
