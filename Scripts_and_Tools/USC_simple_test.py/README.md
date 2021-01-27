@@ -13,6 +13,11 @@ Besides iperf3 and bbcp being installed, you need an account on the target DTN f
 This script runs two parallel iperf3 streams on ports 5101 and 5102, so on the target (server) DTN, run a command something like
 ```
 iperf3 -s -p 5101 &
-iperf3 -s p 5102 &
+iperf3 -s -p 5102 &
 ```
+You probably have to ```systemctl stop firewalld``` to avoid any errors on your sending (client) DTN. It will bomb out with something like
+```
+iperf3: error - unable to connect to server: No route to host
+```
+
 
