@@ -18,7 +18,9 @@ bbcp: Creating /project/hpcroot/christay/chris_xfer/100G.dat
 bbcp: 210127 13:41:56  8% done; 1006.2 MB/s, avg 1006.2 MB/s
 bbcp: 210127 13:42:03  15% done; 1013.6 MB/s, avg 1009.7 MB/s
 bbcp: 210127 13:42:10  23% done; 1.0 GB/s, avg 1018.1 MB/s
+```
   ... *** edited for brevity ***
+```
 bbcp: 210127 13:43:00  78% done; 1.0 GB/s, avg 1.0 GB/s
 bbcp: 210127 13:43:07  86% done; 1.0 GB/s, avg 1.0 GB/s
 bbcp: 210127 13:43:14  94% done; 1.0 GB/s, avg 1.0 GB/s
@@ -34,7 +36,9 @@ bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G1.dat
 File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 1.2 GB/s
 bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G2.dat
 File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 1.0 GB/s
+```
   ... *** edited for brevity ***
+```
 bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G99.dat
 File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 1.3 GB/s
 bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G100.dat
