@@ -19,7 +19,7 @@ bbcp: 210127 13:41:56  8% done; 1006.2 MB/s, avg 1006.2 MB/s
 bbcp: 210127 13:42:03  15% done; 1013.6 MB/s, avg 1009.7 MB/s
 bbcp: 210127 13:42:10  23% done; 1.0 GB/s, avg 1018.1 MB/s
 ```
-  ... *** edited for brevity ***
+   *** edited for brevity ***
 ```
 bbcp: 210127 13:43:00  78% done; 1.0 GB/s, avg 1.0 GB/s
 bbcp: 210127 13:43:07  86% done; 1.0 GB/s, avg 1.0 GB/s
@@ -37,7 +37,7 @@ File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G1.dat created; 100000
 bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G2.dat
 File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 1.0 GB/s
 ```
-  ... *** edited for brevity ***
+    *** edited for brevity ***
 ```
 bbcp: Creating /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G99.dat
 File /project/hpcroot/christay/chris_xfer/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 1.3 GB/s
@@ -77,6 +77,9 @@ Stream1:  [  4]   0.00-20.00  sec  25.3 GBytes  10.9 Gbits/sec  133             
 Stream1:  [  4]   0.00-20.00  sec  25.3 GBytes  10.9 Gbits/sec                  receiver
 Stream1:  [  6]   0.00-20.00  sec  25.4 GBytes  10.9 Gbits/sec  289             sender
 Stream1:  [  6]   0.00-20.00  sec  25.3 GBytes  10.9 Gbits/sec                  receiver
+```
+   This next line is important-
+```
 Stream1:  [SUM]   0.00-20.00  sec  50.7 GBytes  21.8 Gbits/sec  422             sender
 Stream1:  [SUM]   0.00-20.00  sec  50.7 GBytes  21.8 Gbits/sec                  receiver
 Stream1:
@@ -91,8 +94,20 @@ Stream2:  [  4]   0.00-20.00  sec  24.6 GBytes  10.5 Gbits/sec  115             
 Stream2:  [  4]   0.00-20.00  sec  24.5 GBytes  10.5 Gbits/sec                  receiver
 Stream2:  [  6]   0.00-20.00  sec  24.5 GBytes  10.5 Gbits/sec  261             sender
 Stream2:  [  6]   0.00-20.00  sec  24.5 GBytes  10.5 Gbits/sec                  receiver
+```
+   And this one-
+```
 Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec  376             sender
 Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec                  receiver
 Stream2:
 Stream2:  iperf Done.
 ```
+
+Add the results from these two streams together:
+```
+Stream1:  [SUM]   0.00-20.00  sec  50.7 GBytes  21.8 Gbits/sec  422             sender
+Stream2:  [SUM]   0.00-20.00  sec  49.1 GBytes  21.1 Gbits/sec  376             sender
+```
+So, I got 21.8 + 21.1 GBits/sec for 42.9 GBits/sec. Also take a note of the retries (Retr) in the 2nd to last column. I get those when I'm saturating some part of the flow (but sometimes is kind of hard to tell what part- it could one of the many network hops, TCP or OS buffers on one of the endpoints... that's all part of the fun).
+
+
