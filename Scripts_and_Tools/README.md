@@ -9,7 +9,10 @@ iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream2 -p 5102
 ```
 bbcp-
 https://www.slac.stanford.edu/~abh/bbcp/
-(Scroll down to the 'Download' section)
+
+Scroll down to the 'Download' section:
+
+https://www.slac.stanford.edu/~abh/bbcp/bin/
 
 ```
 bbcp -v -f -P 8 -r -s 4 -F <CLIENT FILESYSEM>/100G.dat <TARGET DTN>:<TARGET FILESYSTEM>
