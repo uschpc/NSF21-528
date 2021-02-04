@@ -2,9 +2,9 @@
 
 ### Command line for tests I've been using locally:
 
-iperf3 with two streams-
+iperf3 with two streams (running concurrently, two processes at once)-
 ```
-iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream1 -p 5101
+iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream1 -p 5101 &
 iperf3 -i 10 -t 20 -Z -P 2 -c <TARGET DTN> -T Stream2 -p 5102
 ```
 bbcp-
