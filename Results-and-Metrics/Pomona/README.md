@@ -2,5 +2,7 @@
 
 ssh key created and uploaded to Box
 
-iPERF test completed
+iPERF test to USC completed
+
+Running iPERF3 on 5101 and 5102
 
