@@ -1,9 +1,11 @@
 $ ping 134.173.65.144
 PING 134.173.65.144 (134.173.65.144) 56(84) bytes of data.
-64 bytes from 134.173.65.144: icmp_seq=1 ttl=55 time=3.25 ms
-64 bytes from 134.173.65.144: icmp_seq=2 ttl=55 time=3.28 ms
-64 bytes from 134.173.65.144: icmp_seq=3 ttl=55 time=3.30 ms
+64 bytes from 134.173.65.144: icmp_seq=1 ttl=55 time=3.28 ms
+64 bytes from 134.173.65.144: icmp_seq=2 ttl=55 time=3.29 ms
+64 bytes from 134.173.65.144: icmp_seq=3 ttl=55 time=3.20 ms
+64 bytes from 134.173.65.144: icmp_seq=4 ttl=55 time=3.30 ms
+64 bytes from 134.173.65.144: icmp_seq=5 ttl=55 time=3.27 ms
 
 --- 134.173.65.144 ping statistics ---
-3 packets transmitted, 3 received, 0% packet loss, time 2002ms
-rtt min/avg/max/mdev = 3.257/3.284/3.308/0.020 ms
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 3.208/3.274/3.309/0.034 ms
