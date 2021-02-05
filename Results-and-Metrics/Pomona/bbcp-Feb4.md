@@ -1,6 +1,6 @@
 # bbcp
 
-Pomona bbcp:
+Pomona bbcp version:
 
 ```
 14.04.14.00.1
