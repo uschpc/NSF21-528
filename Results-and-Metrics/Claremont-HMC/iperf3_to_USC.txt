@@ -1,0 +1,42 @@
+Stream2:  Connecting to host hpc-mdtn2.usc.edu, port 5102
+Stream2:  [  5] local 134.173.32.5 port 56796 connected to 68.181.11.10 port 5102
+Stream2:  [  7] local 134.173.32.5 port 56802 connected to 68.181.11.10 port 5102
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [  5]   0.00-10.00  sec   246 MBytes   207 Mbits/sec    0    202 KBytes
+Stream2:  [  7]   0.00-10.00  sec   247 MBytes   208 Mbits/sec    0    202 KBytes
+Stream2:  [SUM]   0.00-10.00  sec   494 MBytes   414 Mbits/sec    0
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec   244 MBytes   204 Mbits/sec    0    202 KBytes
+Stream2:  [  7]  10.00-20.00  sec   245 MBytes   206 Mbits/sec    0    202 KBytes
+Stream2:  [SUM]  10.00-20.00  sec   489 MBytes   410 Mbits/sec    0
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream2:  [  5]   0.00-20.00  sec   490 MBytes   206 Mbits/sec    0             sender
+Stream2:  [  5]   0.00-20.00  sec   487 MBytes   204 Mbits/sec                  receiver
+Stream2:  [  7]   0.00-20.00  sec   492 MBytes   207 Mbits/sec    0             sender
+Stream2:  [  7]   0.00-20.00  sec   489 MBytes   205 Mbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec   982 MBytes   412 Mbits/sec    0             sender
+Stream2:  [SUM]   0.00-20.00  sec   976 MBytes   409 Mbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
+Stream1:  Connecting to host hpc-mdtn2.usc.edu, port 5101
+Stream1:  [  5] local 134.173.32.5 port 53356 connected to 68.181.11.10 port 5101
+Stream1:  [  7] local 134.173.32.5 port 53358 connected to 68.181.11.10 port 5101
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    0    217 KBytes
+Stream1:  [  7]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    0    211 KBytes
+Stream1:  [SUM]   0.00-10.00  sec   494 MBytes   415 Mbits/sec    0
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  5]  10.00-20.00  sec   244 MBytes   204 Mbits/sec    1    217 KBytes
+Stream1:  [  7]  10.00-20.00  sec   244 MBytes   204 Mbits/sec    0    211 KBytes
+Stream1:  [SUM]  10.00-20.00  sec   488 MBytes   409 Mbits/sec    1
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec   491 MBytes   206 Mbits/sec    1             sender
+Stream1:  [  5]   0.00-20.00  sec   488 MBytes   205 Mbits/sec                  receiver
+Stream1:  [  7]   0.00-20.00  sec   491 MBytes   206 Mbits/sec    0             sender
+Stream1:  [  7]   0.00-20.00  sec   488 MBytes   205 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec   982 MBytes   412 Mbits/sec    1             sender
+Stream1:  [SUM]   0.00-20.00  sec   976 MBytes   409 Mbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
