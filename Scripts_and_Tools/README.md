@@ -16,7 +16,7 @@ iperf3 -i 10 -t 20 -Z -P 2 -c hpc-mdtn2.usc.edu -T Stream1 -p 5101 &
 iperf3 -i 10 -t 20 -Z -P 2 -c hpc-mdtn2.usc.edu -T Stream2 -p 5102
 ```
 
-It's suggested to cut and paste the above script in a BASH or other shell script and execute it so two streams are running *at the same time.*
+###It's suggested to cut and paste the above script in a BASH or other shell script and execute it so two streams are running *at the same time.*
 
 ## If time permits, file transfer using bbcp (we are focusing on ping, traceroute and iperf3 right now)
 
