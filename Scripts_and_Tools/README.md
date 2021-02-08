@@ -1,6 +1,14 @@
-## A place for command line scripts, utilities, etc
+## Command line scripts, utilities, etc
 
-### Command line for tests I've been using locally:
+### Command line for tests using the USC Data Transfer Node as an example:
+
+Ping and traceroute:
+```
+ping hpc-mdtn2.usc.edu
+```
+```
+traceroute hpc-mdtn2.usc.edu
+```
 
 iperf3 with two streams (running concurrently, two processes at once)-
 ```
