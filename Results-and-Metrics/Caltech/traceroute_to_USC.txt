@@ -1,0 +1,9 @@
+traceroute to hpc-mdtn2.usc.edu (68.181.11.10), 30 hops max, 60 byte packets
+1  booth-192-31-43-13.caltech.net (192.31.43.13)  0.774 ms  0.793 ms  0.894 ms
+2  hpr--lax-agg10--caltech.cenic.net (137.164.27.169)  6.562 ms  6.568 ms  6.529 ms
+3  137.164.27.63 (137.164.27.63)  1.288 ms  1.305 ms  1.294 ms
+4  * * *
+5  * * *
+6  cal-7280-hpcc1.usc.edu (68.181.25.19)  2.021 ms * *
+7  * * *
+8  * hpc-mdtn2.usc.edu (68.181.11.10)  2.172 ms *
