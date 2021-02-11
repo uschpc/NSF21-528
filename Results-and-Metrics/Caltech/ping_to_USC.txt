@@ -1,0 +1,10 @@
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=40 ttl=57 time=2.07 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=41 ttl=57 time=2.01 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=42 ttl=57 time=2.23 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=43 ttl=57 time=2.09 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=44 ttl=57 time=2.07 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=45 ttl=57 time=2.06 ms
+^C
+--- hpc-mdtn2.usc.edu ping statistics ---
+45 packets transmitted, 45 received, 0% packet loss, time 44052ms
+rtt min/avg/max/mdev = 1.901/2.027/2.237/0.071 ms
