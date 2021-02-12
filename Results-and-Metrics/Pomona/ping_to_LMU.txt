@@ -1,0 +1,11 @@
+$ ping 157.242.103.137
+PING 157.242.103.137 (157.242.103.137) 56(84) bytes of data.
+64 bytes from 157.242.103.137: icmp_seq=1 ttl=55 time=4.98 ms
+64 bytes from 157.242.103.137: icmp_seq=2 ttl=55 time=5.09 ms
+64 bytes from 157.242.103.137: icmp_seq=3 ttl=55 time=5.00 ms
+64 bytes from 157.242.103.137: icmp_seq=4 ttl=55 time=5.00 ms
+64 bytes from 157.242.103.137: icmp_seq=5 ttl=55 time=4.98 ms
+
+--- 157.242.103.137 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 4.978/5.009/5.086/0.039 ms
