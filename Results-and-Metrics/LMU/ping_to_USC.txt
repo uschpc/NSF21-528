@@ -1,0 +1,12 @@
+PING hpc-mdtn2.usc.edu (68.181.11.10) 56(84) bytes of data.
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=1 ttl=53 time=3.11 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=2 ttl=53 time=3.21 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=3 ttl=53 time=3.23 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=4 ttl=53 time=3.25 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=5 ttl=53 time=3.21 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=6 ttl=53 time=3.22 ms
+64 bytes from hpc-mdtn2.usc.edu (68.181.11.10): icmp_seq=7 ttl=53 time=3.23 ms
+^C
+--- hpc-mdtn2.usc.edu ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6007ms
+rtt min/avg/max/mdev = 3.116/3.212/3.251/0.079 ms
