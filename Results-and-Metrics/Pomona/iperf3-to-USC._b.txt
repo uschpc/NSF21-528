@@ -1,0 +1,49 @@
+Running iperf3 from localhost to hpc-mdtn2.usc.edu
+----------------------------------------
+Command line: iperf3 -i 10 -t 20 -Z -P 2 -c hpc-mdtn2.usc.edu -T Stream1 -p 5101
+----------------------------------------
+Command line: iperf3 -i 10 -t 20 -Z -P 2 -c hpc-mdtn2.usc.edu -T Stream2 -p 5102
+----------------------------------------
+
+Stream2:  Connecting to host hpc-mdtn2.usc.edu, port 5102
+Stream2:  [  5] local 134.173.65.144 port 34014 connected to 68.181.11.10 port 5102
+Stream2:  [  7] local 134.173.65.144 port 34018 connected to 68.181.11.10 port 5102
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [  5]   0.00-10.00  sec  2.35 GBytes  2.02 Gbits/sec  136   1.85 MBytes
+Stream2:  [  7]   0.00-10.00  sec  2.09 GBytes  1.80 Gbits/sec  250   1.11 MBytes
+Stream2:  [SUM]   0.00-10.00  sec  4.45 GBytes  3.82 Gbits/sec  386
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec  2.72 GBytes  2.34 Gbits/sec   66   1.00 MBytes
+Stream2:  [  7]  10.00-20.00  sec  2.21 GBytes  1.89 Gbits/sec  150    714 KBytes
+Stream2:  [SUM]  10.00-20.00  sec  4.93 GBytes  4.23 Gbits/sec  216
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream2:  [  5]   0.00-20.00  sec  5.07 GBytes  2.18 Gbits/sec  202             sender
+Stream2:  [  5]   0.00-20.00  sec  5.07 GBytes  2.18 Gbits/sec                  receiver
+Stream2:  [  7]   0.00-20.00  sec  4.30 GBytes  1.85 Gbits/sec  400             sender
+Stream2:  [  7]   0.00-20.00  sec  4.30 GBytes  1.85 Gbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec  9.37 GBytes  4.03 Gbits/sec  602             sender
+Stream2:  [SUM]   0.00-20.00  sec  9.37 GBytes  4.02 Gbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
+Stream1:  Connecting to host hpc-mdtn2.usc.edu, port 5101
+Stream1:  [  5] local 134.173.65.144 port 43422 connected to 68.181.11.10 port 5101
+Stream1:  [  7] local 134.173.65.144 port 43426 connected to 68.181.11.10 port 5101
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec  3.08 GBytes  2.65 Gbits/sec  358   2.16 MBytes
+Stream1:  [  7]   0.00-10.00  sec  2.26 GBytes  1.94 Gbits/sec  230   1.14 MBytes
+Stream1:  [SUM]   0.00-10.00  sec  5.34 GBytes  4.59 Gbits/sec  588
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  5]  10.00-20.00  sec  3.02 GBytes  2.59 Gbits/sec   79   1.05 MBytes
+Stream1:  [  7]  10.00-20.00  sec  2.19 GBytes  1.88 Gbits/sec  170    778 KBytes
+Stream1:  [SUM]  10.00-20.00  sec  5.21 GBytes  4.48 Gbits/sec  249
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec  6.10 GBytes  2.62 Gbits/sec  437             sender
+Stream1:  [  5]   0.00-20.00  sec  6.10 GBytes  2.62 Gbits/sec                  receiver
+Stream1:  [  7]   0.00-20.00  sec  4.45 GBytes  1.91 Gbits/sec  400             sender
+Stream1:  [  7]   0.00-20.00  sec  4.45 GBytes  1.91 Gbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec  10.6 GBytes  4.53 Gbits/sec  837             sender
+Stream1:  [SUM]   0.00-20.00  sec  10.5 GBytes  4.53 Gbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
