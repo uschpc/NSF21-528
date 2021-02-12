@@ -1,0 +1,237 @@
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/USC/100G.dat hpc-mdtn2.usc.edu:/home/nsf21528/pomona
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files in 0 directories.
+bbcp: Warning: pom-itb-dgx01.campus.pomona.edu is running an older version of bbcp
+bbcp: Creating /home/nsf21528/pomona/100G.dat
+bbcp: 210212 09:54:09  3% done; 417.2 MB/s, avg 417.2 MB/s
+bbcp: 210212 09:54:16  7% done; 497.5 MB/s, avg 455.5 MB/s
+bbcp: 210212 09:54:23  10% done; 514.7 MB/s, avg 474.6 MB/s
+bbcp: 210212 09:54:30  15% done; 620.5 MB/s, avg 510.1 MB/s
+bbcp: 210212 09:54:37  19% done; 528.8 MB/s, avg 513.8 MB/s
+bbcp: 210212 09:54:44  25% done; 868.0 MB/s, avg 571.9 MB/s
+bbcp: 210212 09:54:51  31% done; 844.6 MB/s, avg 610.3 MB/s
+bbcp: 210212 09:54:58  37% done; 719.5 MB/s, avg 623.8 MB/s
+bbcp: 210212 09:55:05  42% done; 706.2 MB/s, avg 632.8 MB/s
+bbcp: 210212 09:55:12  47% done; 677.6 MB/s, avg 637.2 MB/s
+bbcp: 210212 09:55:19  51% done; 597.2 MB/s, avg 633.6 MB/s
+bbcp: 210212 09:55:26  55% done; 480.3 MB/s, avg 621.0 MB/s
+bbcp: 210212 09:55:33  58% done; 515.3 MB/s, avg 612.9 MB/s
+bbcp: 210212 09:55:40  63% done; 585.6 MB/s, avg 611.0 MB/s
+bbcp: 210212 09:55:47  68% done; 743.1 MB/s, avg 619.7 MB/s
+bbcp: 210212 09:55:54  73% done; 696.2 MB/s, avg 624.5 MB/s
+bbcp: 210212 09:56:01  78% done; 608.1 MB/s, avg 623.5 MB/s
+bbcp: 210212 09:56:08  81% done; 501.2 MB/s, avg 616.8 MB/s
+bbcp: 210212 09:56:15  86% done; 607.4 MB/s, avg 616.3 MB/s
+bbcp: 210212 09:56:22  89% done; 433.0 MB/s, avg 607.1 MB/s
+bbcp: 210212 09:56:29  93% done; 492.6 MB/s, avg 601.7 MB/s
+bbcp: 210212 09:56:36  97% done; 587.9 MB/s, avg 601.1 MB/s
+File /home/nsf21528/pomona/100G.dat created; 100000000000 bytes at 600.7 MB/s
+1 file copied at effectively 595.1 MB/s
+----------------------------------------
+Running bbcp copying /home/nsf21528/USC/nsf21-528-100g to hpc-mdtn2.usc.edu:/home/nsf21528/pomona
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/USC/nsf21-528-100g hpc-mdtn2.usc.edu:/home/nsf21528/pomona
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files in 1 directory.
+bbcp: Warning: pom-itb-dgx01.campus.pomona.edu is running an older version of bbcp
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G37.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G37.dat created; 1000000000 bytes at 503.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G70.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G70.dat created; 1000000000 bytes at 591.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G100.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G100.dat created; 1000000000 bytes at 597.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G46.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G46.dat created; 1000000000 bytes at 621.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G13.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G13.dat created; 1000000000 bytes at 496.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G49.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G49.dat created; 1000000000 bytes at 590.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G24.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G24.dat created; 1000000000 bytes at 495.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G84.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G84.dat created; 1000000000 bytes at 521.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G86.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G86.dat created; 1000000000 bytes at 687.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G1.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 496.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G14.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G14.dat created; 1000000000 bytes at 496.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G94.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G94.dat created; 1000000000 bytes at 551.9 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G7.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G7.dat created; 1000000000 bytes at 494.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G90.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G90.dat created; 1000000000 bytes at 514.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G5.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G5.dat created; 1000000000 bytes at 496.0 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G76.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G76.dat created; 1000000000 bytes at 490.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G58.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G58.dat created; 1000000000 bytes at 651.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G57.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G57.dat created; 1000000000 bytes at 699.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G78.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G78.dat created; 1000000000 bytes at 672.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G51.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G51.dat created; 1000000000 bytes at 699.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G71.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G71.dat created; 1000000000 bytes at 905.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G33.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G33.dat created; 1000000000 bytes at 496.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G72.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G72.dat created; 1000000000 bytes at 682.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G88.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G88.dat created; 1000000000 bytes at 696.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G3.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G3.dat created; 1000000000 bytes at 495.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G54.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G54.dat created; 1000000000 bytes at 530.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G97.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G97.dat created; 1000000000 bytes at 569.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G32.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G32.dat created; 1000000000 bytes at 497.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G34.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G34.dat created; 1000000000 bytes at 496.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G40.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G40.dat created; 1000000000 bytes at 495.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G4.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G4.dat created; 1000000000 bytes at 494.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G60.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G60.dat created; 1000000000 bytes at 605.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G66.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G66.dat created; 1000000000 bytes at 667.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G48.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G48.dat created; 1000000000 bytes at 800.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G9.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G9.dat created; 1000000000 bytes at 497.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G93.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G93.dat created; 1000000000 bytes at 669.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G92.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G92.dat created; 1000000000 bytes at 754.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G52.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G52.dat created; 1000000000 bytes at 812.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G99.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 683.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G39.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G39.dat created; 1000000000 bytes at 495.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G83.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G83.dat created; 1000000000 bytes at 635.9 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G64.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G64.dat created; 1000000000 bytes at 801.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G65.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G65.dat created; 1000000000 bytes at 804.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G59.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G59.dat created; 1000000000 bytes at 813.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G35.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G35.dat created; 1000000000 bytes at 497.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G6.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G6.dat created; 1000000000 bytes at 496.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G23.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G23.dat created; 1000000000 bytes at 497.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G69.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G69.dat created; 1000000000 bytes at 475.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G77.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G77.dat created; 1000000000 bytes at 632.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G96.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G96.dat created; 1000000000 bytes at 679.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G45.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G45.dat created; 1000000000 bytes at 548.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G29.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G29.dat created; 1000000000 bytes at 496.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G8.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G8.dat created; 1000000000 bytes at 494.0 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G67.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G67.dat created; 1000000000 bytes at 439.9 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G68.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G68.dat created; 1000000000 bytes at 620.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G53.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G53.dat created; 1000000000 bytes at 753.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G44.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G44.dat created; 1000000000 bytes at 625.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G91.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G91.dat created; 1000000000 bytes at 824.9 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G62.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G62.dat created; 1000000000 bytes at 876.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G10.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G10.dat created; 1000000000 bytes at 495.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G30.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G30.dat created; 1000000000 bytes at 495.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G31.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G31.dat created; 1000000000 bytes at 498.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G89.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G89.dat created; 1000000000 bytes at 449.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G16.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G16.dat created; 1000000000 bytes at 456.0 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G82.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G82.dat created; 1000000000 bytes at 440.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G56.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G56.dat created; 1000000000 bytes at 587.9 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G38.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G38.dat created; 1000000000 bytes at 495.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G98.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G98.dat created; 1000000000 bytes at 578.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G28.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G28.dat created; 1000000000 bytes at 496.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G43.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G43.dat created; 1000000000 bytes at 497.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G87.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G87.dat created; 1000000000 bytes at 481.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G61.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G61.dat created; 1000000000 bytes at 578.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G95.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G95.dat created; 1000000000 bytes at 698.0 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G79.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G79.dat created; 1000000000 bytes at 744.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G22.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G22.dat created; 1000000000 bytes at 496.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G63.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G63.dat created; 1000000000 bytes at 888.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G55.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G55.dat created; 1000000000 bytes at 821.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G74.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G74.dat created; 1000000000 bytes at 669.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G75.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G75.dat created; 1000000000 bytes at 626.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G26.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G26.dat created; 1000000000 bytes at 494.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G81.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G81.dat created; 1000000000 bytes at 577.1 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G47.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G47.dat created; 1000000000 bytes at 478.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G18.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G18.dat created; 1000000000 bytes at 464.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G20.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G20.dat created; 1000000000 bytes at 490.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G11.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G11.dat created; 1000000000 bytes at 443.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G25.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G25.dat created; 1000000000 bytes at 497.2 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G15.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G15.dat created; 1000000000 bytes at 496.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G85.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G85.dat created; 1000000000 bytes at 505.0 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G19.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G19.dat created; 1000000000 bytes at 493.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G21.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G21.dat created; 1000000000 bytes at 497.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G17.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G17.dat created; 1000000000 bytes at 493.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G2.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 496.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G42.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G42.dat created; 1000000000 bytes at 496.5 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G41.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G41.dat created; 1000000000 bytes at 497.4 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G27.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G27.dat created; 1000000000 bytes at 496.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G50.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G50.dat created; 1000000000 bytes at 473.6 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G36.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G36.dat created; 1000000000 bytes at 496.7 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G80.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G80.dat created; 1000000000 bytes at 775.3 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G73.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G73.dat created; 1000000000 bytes at 765.8 MB/s
+bbcp: Creating /home/nsf21528/pomona/nsf21-528-100g/1G12.dat
+File /home/nsf21528/pomona/nsf21-528-100g/1G12.dat created; 1000000000 bytes at 496.6 MB/s
+100 files copied at effectively 554.8 MB/s
