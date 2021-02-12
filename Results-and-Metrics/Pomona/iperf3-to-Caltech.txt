@@ -1,0 +1,88 @@
+nsf21528@POM-ITB-DGX01:~/USC$ sh ./caltech.sh
+Stream1:  Connecting to host 192.31.43.1, port 5101
+Stream2:  Connecting to host 192.31.43.1, port 5102
+Stream1:  [  5] local 134.173.65.144 port 50784 connected to 192.31.43.1 port 5101
+Stream2:  [  5] local 134.173.65.144 port 35864 connected to 192.31.43.1 port 5102
+Stream2:  [  7] local 134.173.65.144 port 35868 connected to 192.31.43.1 port 5102
+Stream1:  [  7] local 134.173.65.144 port 50788 connected to 192.31.43.1 port 5101
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec   604 MBytes   507 Mbits/sec  577    590 KBytes
+Stream2:  [  5]   0.00-10.00  sec   389 MBytes   326 Mbits/sec  657    329 KBytes
+Stream1:  [  7]   0.00-10.00  sec   559 MBytes   469 Mbits/sec  719    572 KBytes
+Stream2:  [  7]   0.00-10.00  sec   407 MBytes   342 Mbits/sec  516    338 KBytes
+Stream2:  [SUM]   0.00-10.00  sec   796 MBytes   668 Mbits/sec  1173
+Stream1:  [SUM]   0.00-10.00  sec  1.14 GBytes   975 Mbits/sec  1296
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  5]  10.00-20.00  sec   740 MBytes   621 Mbits/sec  609    466 KBytes
+Stream1:  [  7]  10.00-20.00  sec   694 MBytes   582 Mbits/sec  771    486 KBytes
+Stream1:  [SUM]  10.00-20.00  sec  1.40 GBytes  1.20 Gbits/sec  1380
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec  1.31 GBytes   564 Mbits/sec  1186             sender
+Stream1:  [  5]   0.00-20.00  sec  1.31 GBytes   563 Mbits/sec                  receiver
+Stream1:  [  7]   0.00-20.00  sec  1.22 GBytes   525 Mbits/sec  1490             sender
+Stream1:  [  7]   0.00-20.00  sec  1.22 GBytes   524 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec  2.54 GBytes  1.09 Gbits/sec  2676             sender
+Stream1:  [SUM]   0.00-20.00  sec  2.53 GBytes  1.09 Gbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec   539 MBytes   452 Mbits/sec  930    255 KBytes
+Stream2:  [  7]  10.00-20.00  sec   350 MBytes   293 Mbits/sec  665    307 KBytes
+Stream2:  [SUM]  10.00-20.00  sec   888 MBytes   745 Mbits/sec  1595
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream2:  [  5]   0.00-20.00  sec   927 MBytes   389 Mbits/sec  1587             sender
+Stream2:  [  5]   0.00-20.00  sec   926 MBytes   388 Mbits/sec                  receiver
+Stream2:  [  7]   0.00-20.00  sec   757 MBytes   318 Mbits/sec  1181             sender
+Stream2:  [  7]   0.00-20.00  sec   756 MBytes   317 Mbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec  1.64 GBytes   706 Mbits/sec  2768             sender
+Stream2:  [SUM]   0.00-20.00  sec  1.64 GBytes   705 Mbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
+
+
+nsf21528@POM-ITB-DGX01:~/USC$ sh ./caltech.sh
+Stream2:  Connecting to host 192.31.43.1, port 5102
+Stream1:  Connecting to host 192.31.43.1, port 5101
+Stream2:  [  5] local 134.173.65.144 port 35874 connected to 192.31.43.1 port 5102
+Stream1:  [  5] local 134.173.65.144 port 50798 connected to 192.31.43.1 port 5101
+Stream1:  [  7] local 134.173.65.144 port 50800 connected to 192.31.43.1 port 5101
+Stream2:  [  7] local 134.173.65.144 port 35880 connected to 192.31.43.1 port 5102
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec   507 MBytes   425 Mbits/sec  582    643 KBytes
+Stream2:  [  5]   0.00-10.00  sec   535 MBytes   449 Mbits/sec  956    520 KBytes
+Stream1:  [  7]   0.00-10.00  sec   368 MBytes   309 Mbits/sec  585    367 KBytes
+Stream2:  [  7]   0.00-10.00  sec   386 MBytes   323 Mbits/sec  632    411 KBytes
+Stream1:  [SUM]   0.00-10.00  sec   875 MBytes   734 Mbits/sec  1167
+Stream2:  [SUM]   0.00-10.00  sec   921 MBytes   773 Mbits/sec  1588
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec   526 MBytes   441 Mbits/sec  436    394 KBytes
+Stream2:  [  7]  10.00-20.00  sec   382 MBytes   321 Mbits/sec  351    236 KBytes
+Stream2:  [SUM]  10.00-20.00  sec   908 MBytes   762 Mbits/sec  787
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]   0.00-20.00  sec  1.04 GBytes   445 Mbits/sec  1392             sender
+Stream2:  [  5]   0.00-20.00  sec  1.03 GBytes   444 Mbits/sec                  receiver
+Stream1:  [  5]  10.00-20.00  sec   580 MBytes   486 Mbits/sec  255    680 KBytes
+Stream2:  [  7]   0.00-20.00  sec   768 MBytes   322 Mbits/sec  983             sender
+Stream2:  [  7]   0.00-20.00  sec   767 MBytes   322 Mbits/sec                  receiver
+Stream1:  [  7]  10.00-20.00  sec   344 MBytes   289 Mbits/sec  488    218 KBytes
+Stream2:  [SUM]   0.00-20.00  sec  1.79 GBytes   767 Mbits/sec  2375             sender
+Stream1:  [SUM]  10.00-20.00  sec   924 MBytes   775 Mbits/sec  743
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [SUM]   0.00-20.00  sec  1.78 GBytes   766 Mbits/sec                  receiver
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec  1.06 GBytes   456 Mbits/sec  837             sender
+Stream1:  [  5]   0.00-20.00  sec  1.06 GBytes   455 Mbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
+Stream1:  [  7]   0.00-20.00  sec   713 MBytes   299 Mbits/sec  1073             sender
+Stream1:  [  7]   0.00-20.00  sec   711 MBytes   298 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec  1.76 GBytes   755 Mbits/sec  1910             sender
+Stream1:  [SUM]   0.00-20.00  sec  1.75 GBytes   753 Mbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
