@@ -1,0 +1,42 @@
+Stream1:  Connecting to host 134.173.65.144, port 5101
+Stream1:  [  5] local 134.173.32.5 port 34926 connected to 134.173.65.144 port 5101
+Stream1:  [  7] local 134.173.32.5 port 34930 connected to 134.173.65.144 port 5101
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    1    339 KBytes       
+Stream1:  [  7]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    0    286 KBytes       
+Stream1:  [SUM]   0.00-10.00  sec   495 MBytes   415 Mbits/sec    1             
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  5]  10.00-20.00  sec   246 MBytes   207 Mbits/sec    0    339 KBytes       
+Stream1:  [  7]  10.00-20.00  sec   247 MBytes   207 Mbits/sec    0    286 KBytes       
+Stream1:  [SUM]  10.00-20.00  sec   493 MBytes   414 Mbits/sec    0             
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec   494 MBytes   207 Mbits/sec    1             sender
+Stream1:  [  5]   0.00-20.00  sec   493 MBytes   207 Mbits/sec                  receiver
+Stream1:  [  7]   0.00-20.00  sec   494 MBytes   207 Mbits/sec    0             sender
+Stream1:  [  7]   0.00-20.00  sec   493 MBytes   207 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec   988 MBytes   414 Mbits/sec    1             sender
+Stream1:  [SUM]   0.00-20.00  sec   986 MBytes   413 Mbits/sec                  receiver
+Stream1:  
+Stream1:  iperf Done.
+Stream2:  Connecting to host 134.173.65.144, port 5102
+Stream2:  [  5] local 134.173.32.5 port 54220 connected to 134.173.65.144 port 5102
+Stream2:  [  7] local 134.173.32.5 port 54222 connected to 134.173.65.144 port 5102
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [  5]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    0    286 KBytes       
+Stream2:  [  7]   0.00-10.00  sec   247 MBytes   207 Mbits/sec    0    289 KBytes       
+Stream2:  [SUM]   0.00-10.00  sec   494 MBytes   415 Mbits/sec    0             
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec   247 MBytes   207 Mbits/sec    0    402 KBytes       
+Stream2:  [  7]  10.00-20.00  sec   247 MBytes   207 Mbits/sec    0    411 KBytes       
+Stream2:  [SUM]  10.00-20.00  sec   494 MBytes   415 Mbits/sec    0             
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream2:  [  5]   0.00-20.00  sec   494 MBytes   207 Mbits/sec    0             sender
+Stream2:  [  5]   0.00-20.00  sec   493 MBytes   207 Mbits/sec                  receiver
+Stream2:  [  7]   0.00-20.00  sec   494 MBytes   207 Mbits/sec    0             sender
+Stream2:  [  7]   0.00-20.00  sec   493 MBytes   207 Mbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec   989 MBytes   415 Mbits/sec    0             sender
+Stream2:  [SUM]   0.00-20.00  sec   986 MBytes   414 Mbits/sec                  receiver
+Stream2:  
+Stream2:  iperf Done.
