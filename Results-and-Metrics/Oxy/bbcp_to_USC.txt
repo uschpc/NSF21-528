@@ -1,0 +1,239 @@
+Running bbcp copying /home/nsf21528/data/USC/100G.dat to hpc-mdtn2.usc.edu:/home/nsf21528/oxy
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/data/USC/100G.dat hpc-mdtn2.usc.edu:/home/nsf21528/oxy
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files and 0 links in 0 directories.
+bbcp: Creating /home/nsf21528/oxy/100G.dat
+bbcp: 210217 13:07:57  4% done; 580.4 MB/s, avg 580.4 MB/s
+bbcp: 210217 13:08:04  9% done; 573.7 MB/s, avg 577.3 MB/s
+bbcp: 210217 13:08:11  13% done; 600.3 MB/s, avg 584.6 MB/s
+bbcp: 210217 13:08:18  17% done; 562.5 MB/s, avg 579.3 MB/s
+bbcp: 210217 13:08:25  21% done; 550.9 MB/s, avg 573.7 MB/s
+bbcp: 210217 13:08:32  26% done; 603.4 MB/s, avg 578.6 MB/s
+bbcp: 210217 13:08:39  30% done; 562.1 MB/s, avg 576.3 MB/s
+bbcp: 210217 13:08:46  33% done; 502.7 MB/s, avg 567.2 MB/s
+bbcp: 210217 13:08:53  38% done; 576.7 MB/s, avg 568.3 MB/s
+bbcp: 210217 13:09:00  42% done; 566.3 MB/s, avg 568.1 MB/s
+bbcp: 210217 13:09:07  46% done; 591.6 MB/s, avg 570.2 MB/s
+bbcp: 210217 13:09:14  50% done; 548.5 MB/s, avg 568.4 MB/s
+bbcp: 210217 13:09:21  54% done; 542.8 MB/s, avg 566.5 MB/s
+bbcp: 210217 13:09:28  58% done; 551.3 MB/s, avg 565.4 MB/s
+bbcp: 210217 13:09:35  62% done; 537.4 MB/s, avg 563.5 MB/s
+bbcp: 210217 13:09:42  66% done; 535.2 MB/s, avg 561.8 MB/s
+bbcp: 210217 13:09:49  70% done; 547.9 MB/s, avg 561.0 MB/s
+bbcp: 210217 13:09:56  74% done; 544.0 MB/s, avg 560.0 MB/s
+bbcp: 210217 13:10:03  78% done; 536.8 MB/s, avg 558.8 MB/s
+bbcp: 210217 13:10:10  82% done; 556.0 MB/s, avg 558.7 MB/s
+bbcp: 210217 13:10:17  86% done; 545.2 MB/s, avg 558.0 MB/s
+bbcp: 210217 13:10:24  90% done; 574.1 MB/s, avg 558.8 MB/s
+bbcp: 210217 13:10:31  94% done; 563.5 MB/s, avg 559.0 MB/s
+bbcp: 210217 13:10:38  98% done; 498.3 MB/s, avg 556.5 MB/s
+File /home/nsf21528/oxy/100G.dat created; 100000000000 bytes at 555.9 MB/s
+1 file copied at effectively 544.9 MB/s
+----------------------------------------
+Running bbcp copying /home/nsf21528/data/USC/nsf21-528-100g to hpc-mdtn2.usc.edu:/home/nsf21528/oxy
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/data/USC/nsf21-528-100g hpc-mdtn2.usc.edu:/home/nsf21528/oxy
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files and 0 links in 1 directory.
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G1.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 456.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G2.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 505.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G3.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G3.dat created; 1000000000 bytes at 510.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G4.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G4.dat created; 1000000000 bytes at 600.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G5.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G5.dat created; 1000000000 bytes at 567.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G6.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G6.dat created; 1000000000 bytes at 528.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G7.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G7.dat created; 1000000000 bytes at 543.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G8.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G8.dat created; 1000000000 bytes at 503.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G9.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G9.dat created; 1000000000 bytes at 499.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G10.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G10.dat created; 1000000000 bytes at 475.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G11.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G11.dat created; 1000000000 bytes at 500.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G12.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G12.dat created; 1000000000 bytes at 529.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G13.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G13.dat created; 1000000000 bytes at 488.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G14.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G14.dat created; 1000000000 bytes at 495.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G15.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G15.dat created; 1000000000 bytes at 483.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G16.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G16.dat created; 1000000000 bytes at 488.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G17.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G17.dat created; 1000000000 bytes at 512.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G18.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G18.dat created; 1000000000 bytes at 511.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G19.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G19.dat created; 1000000000 bytes at 547.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G20.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G20.dat created; 1000000000 bytes at 600.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G21.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G21.dat created; 1000000000 bytes at 559.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G22.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G22.dat created; 1000000000 bytes at 530.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G23.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G23.dat created; 1000000000 bytes at 536.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G24.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G24.dat created; 1000000000 bytes at 580.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G25.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G25.dat created; 1000000000 bytes at 502.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G26.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G26.dat created; 1000000000 bytes at 587.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G27.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G27.dat created; 1000000000 bytes at 504.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G28.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G28.dat created; 1000000000 bytes at 577.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G29.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G29.dat created; 1000000000 bytes at 573.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G30.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G30.dat created; 1000000000 bytes at 535.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G31.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G31.dat created; 1000000000 bytes at 475.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G32.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G32.dat created; 1000000000 bytes at 518.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G33.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G33.dat created; 1000000000 bytes at 502.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G34.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G34.dat created; 1000000000 bytes at 525.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G35.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G35.dat created; 1000000000 bytes at 576.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G36.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G36.dat created; 1000000000 bytes at 543.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G37.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G37.dat created; 1000000000 bytes at 542.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G38.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G38.dat created; 1000000000 bytes at 405.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G39.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G39.dat created; 1000000000 bytes at 520.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G40.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G40.dat created; 1000000000 bytes at 515.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G41.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G41.dat created; 1000000000 bytes at 540.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G42.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G42.dat created; 1000000000 bytes at 539.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G43.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G43.dat created; 1000000000 bytes at 516.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G44.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G44.dat created; 1000000000 bytes at 537.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G45.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G45.dat created; 1000000000 bytes at 559.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G46.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G46.dat created; 1000000000 bytes at 534.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G47.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G47.dat created; 1000000000 bytes at 557.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G48.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G48.dat created; 1000000000 bytes at 480.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G49.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G49.dat created; 1000000000 bytes at 539.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G50.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G50.dat created; 1000000000 bytes at 572.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G51.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G51.dat created; 1000000000 bytes at 493.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G52.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G52.dat created; 1000000000 bytes at 510.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G53.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G53.dat created; 1000000000 bytes at 552.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G54.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G54.dat created; 1000000000 bytes at 559.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G55.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G55.dat created; 1000000000 bytes at 504.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G56.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G56.dat created; 1000000000 bytes at 479.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G57.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G57.dat created; 1000000000 bytes at 554.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G58.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G58.dat created; 1000000000 bytes at 577.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G59.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G59.dat created; 1000000000 bytes at 566.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G60.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G60.dat created; 1000000000 bytes at 593.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G61.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G61.dat created; 1000000000 bytes at 560.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G62.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G62.dat created; 1000000000 bytes at 559.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G63.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G63.dat created; 1000000000 bytes at 559.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G64.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G64.dat created; 1000000000 bytes at 526.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G65.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G65.dat created; 1000000000 bytes at 541.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G66.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G66.dat created; 1000000000 bytes at 564.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G67.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G67.dat created; 1000000000 bytes at 540.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G68.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G68.dat created; 1000000000 bytes at 569.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G69.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G69.dat created; 1000000000 bytes at 545.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G70.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G70.dat created; 1000000000 bytes at 565.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G71.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G71.dat created; 1000000000 bytes at 586.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G72.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G72.dat created; 1000000000 bytes at 550.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G73.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G73.dat created; 1000000000 bytes at 592.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G74.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G74.dat created; 1000000000 bytes at 570.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G75.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G75.dat created; 1000000000 bytes at 587.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G76.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G76.dat created; 1000000000 bytes at 572.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G77.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G77.dat created; 1000000000 bytes at 582.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G78.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G78.dat created; 1000000000 bytes at 580.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G79.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G79.dat created; 1000000000 bytes at 538.1 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G80.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G80.dat created; 1000000000 bytes at 573.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G81.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G81.dat created; 1000000000 bytes at 602.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G82.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G82.dat created; 1000000000 bytes at 604.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G83.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G83.dat created; 1000000000 bytes at 608.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G84.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G84.dat created; 1000000000 bytes at 610.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G85.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G85.dat created; 1000000000 bytes at 599.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G86.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G86.dat created; 1000000000 bytes at 492.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G87.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G87.dat created; 1000000000 bytes at 628.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G88.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G88.dat created; 1000000000 bytes at 595.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G89.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G89.dat created; 1000000000 bytes at 574.0 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G90.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G90.dat created; 1000000000 bytes at 543.3 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G91.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G91.dat created; 1000000000 bytes at 552.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G92.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G92.dat created; 1000000000 bytes at 549.4 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G93.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G93.dat created; 1000000000 bytes at 554.6 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G94.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G94.dat created; 1000000000 bytes at 605.9 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G95.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G95.dat created; 1000000000 bytes at 618.2 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G96.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G96.dat created; 1000000000 bytes at 622.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G97.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G97.dat created; 1000000000 bytes at 610.7 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G98.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G98.dat created; 1000000000 bytes at 538.8 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G99.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 594.5 MB/s
+bbcp: Creating /home/nsf21528/oxy/nsf21-528-100g/1G100.dat
+File /home/nsf21528/oxy/nsf21-528-100g/1G100.dat created; 1000000000 bytes at 596.9 MB/s
+100 files copied at effectively 538.5 MB/s
