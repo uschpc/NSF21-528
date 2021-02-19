@@ -1,0 +1,42 @@
+Stream2:  Connecting to host 157.242.103.137, port 5102
+Stream1:  Connecting to host 157.242.103.137, port 5101
+Stream2:  [  4] local 192.31.43.1 port 55854 connected to 157.242.103.137 port 5102
+Stream1:  [  4] local 192.31.43.1 port 37860 connected to 157.242.103.137 port 5101
+Stream2:  [  6] local 192.31.43.1 port 55856 connected to 157.242.103.137 port 5102
+Stream1:  [  6] local 192.31.43.1 port 37866 connected to 157.242.103.137 port 5101
+Stream2:  [ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+Stream1:  [ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+Stream1:  [  4]   0.00-10.00  sec   649 MBytes   544 Mbits/sec  340    140 KBytes
+Stream2:  [  4]   0.00-10.00  sec   541 MBytes   454 Mbits/sec  380    127 KBytes
+Stream1:  [  6]   0.00-10.00  sec   600 MBytes   503 Mbits/sec  354    170 KBytes
+Stream2:  [  6]   0.00-10.00  sec   579 MBytes   486 Mbits/sec  318    224 KBytes
+Stream1:  [SUM]   0.00-10.00  sec  1.22 GBytes  1.05 Gbits/sec  694
+Stream2:  [SUM]   0.00-10.00  sec  1.09 GBytes   940 Mbits/sec  698
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  4]  10.00-20.00  sec   535 MBytes   449 Mbits/sec  569    322 KBytes
+Stream1:  [  6]  10.00-20.00  sec   561 MBytes   471 Mbits/sec  779    298 KBytes
+Stream1:  [SUM]  10.00-20.00  sec  1.07 GBytes   920 Mbits/sec  1348
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bandwidth       Retr
+Stream1:  [  4]   0.00-20.00  sec  1.16 GBytes   497 Mbits/sec  909             sender
+Stream1:  [  4]   0.00-20.00  sec  1.16 GBytes   496 Mbits/sec                  receiver
+Stream1:  [  6]   0.00-20.00  sec  1.13 GBytes   487 Mbits/sec  1133             sender
+Stream1:  [  6]   0.00-20.00  sec  1.13 GBytes   486 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec  2.29 GBytes   984 Mbits/sec  2042             sender
+Stream1:  [SUM]   0.00-20.00  sec  2.29 GBytes   983 Mbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  4]  10.00-20.00  sec   596 MBytes   500 Mbits/sec  701    284 KBytes
+Stream2:  [  6]  10.00-20.00  sec   579 MBytes   485 Mbits/sec  631    308 KBytes
+Stream2:  [SUM]  10.00-20.00  sec  1.15 GBytes   985 Mbits/sec  1332
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bandwidth       Retr
+Stream2:  [  4]   0.00-20.00  sec  1.11 GBytes   477 Mbits/sec  1081             sender
+Stream2:  [  4]   0.00-20.00  sec  1.11 GBytes   477 Mbits/sec                  receiver
+Stream2:  [  6]   0.00-20.00  sec  1.13 GBytes   486 Mbits/sec  949             sender
+Stream2:  [  6]   0.00-20.00  sec  1.13 GBytes   485 Mbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec  2.24 GBytes   963 Mbits/sec  2030             sender
+Stream2:  [SUM]   0.00-20.00  sec  2.24 GBytes   962 Mbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
