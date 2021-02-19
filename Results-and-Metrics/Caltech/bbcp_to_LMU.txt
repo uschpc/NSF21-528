@@ -1,0 +1,442 @@
+Running bbcp 100g transfer
+
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files and 0 links in 0 directories.
+bbcp: Warning: flowtest.caltech.edu is running a newer version of bbcp
+bbcp: Creating /home/nsf21528/caltech/100G.dat
+bbcp: 210219 14:41:20  2% done; 275.8 MB/s, avg 275.8 MB/s
+bbcp: 210219 14:41:27  3% done; 117.2 MB/s, avg 201.7 MB/s
+bbcp: 210219 14:41:34  3% done; 94.6 MB/s, avg 167.6 MB/s
+bbcp: 210219 14:41:41  4% done; 100.0 MB/s, avg 151.3 MB/s
+bbcp: 210219 14:41:48  5% done; 103.9 MB/s, avg 142.0 MB/s
+bbcp: 210219 14:41:55  6% done; 112.5 MB/s, avg 137.2 MB/s
+bbcp: 210219 14:42:02  6% done; 104.7 MB/s, avg 132.7 MB/s
+bbcp: 210219 14:42:09  7% done; 108.5 MB/s, avg 129.7 MB/s
+bbcp: 210219 14:42:16  8% done; 104.8 MB/s, avg 127.0 MB/s
+bbcp: 210219 14:42:23  9% done; 111.9 MB/s, avg 125.5 MB/s
+bbcp: 210219 14:42:30  10% done; 112.4 MB/s, avg 124.3 MB/s
+bbcp: 210219 14:42:37  10% done; 108.9 MB/s, avg 123.0 MB/s
+bbcp: 210219 14:42:44  11% done; 111.9 MB/s, avg 122.2 MB/s
+bbcp: 210219 14:42:51  12% done; 111.1 MB/s, avg 121.4 MB/s
+bbcp: 210219 14:42:58  13% done; 112.0 MB/s, avg 120.8 MB/s
+bbcp: 210219 14:43:05  14% done; 104.2 MB/s, avg 119.8 MB/s
+bbcp: 210219 14:43:12  15% done; 112.5 MB/s, avg 119.3 MB/s
+bbcp: 210219 14:43:19  15% done; 111.3 MB/s, avg 118.9 MB/s
+bbcp: 210219 14:43:26  16% done; 110.0 MB/s, avg 118.4 MB/s
+bbcp: 210219 14:43:33  17% done; 87.3 MB/s, avg 116.9 MB/s
+bbcp: 210219 14:43:40  18% done; 110.3 MB/s, avg 116.6 MB/s
+bbcp: 210219 14:43:47  18% done; 110.5 MB/s, avg 116.3 MB/s
+bbcp: 210219 14:43:54  19% done; 110.8 MB/s, avg 116.1 MB/s
+bbcp: 210219 14:44:01  20% done; 98.5 MB/s, avg 115.3 MB/s
+bbcp: 210219 14:44:08  21% done; 109.4 MB/s, avg 115.1 MB/s
+bbcp: 210219 14:44:15  22% done; 108.1 MB/s, avg 114.8 MB/s
+bbcp: 210219 14:44:22  22% done; 109.3 MB/s, avg 114.6 MB/s
+bbcp: 210219 14:44:29  23% done; 108.9 MB/s, avg 114.4 MB/s
+bbcp: 210219 14:44:36  24% done; 102.6 MB/s, avg 114.0 MB/s
+bbcp: 210219 14:44:43  25% done; 109.7 MB/s, avg 113.9 MB/s
+bbcp: 210219 14:44:50  25% done; 106.5 MB/s, avg 113.6 MB/s
+bbcp: 210219 14:44:57  26% done; 110.7 MB/s, avg 113.5 MB/s
+bbcp: 210219 14:45:04  27% done; 100.1 MB/s, avg 113.1 MB/s
+bbcp: 210219 14:45:11  28% done; 110.6 MB/s, avg 113.1 MB/s
+bbcp: 210219 14:45:18  29% done; 110.8 MB/s, avg 113.0 MB/s
+bbcp: 210219 14:45:25  29% done; 110.6 MB/s, avg 112.9 MB/s
+bbcp: 210219 14:45:32  30% done; 98.1 MB/s, avg 112.5 MB/s
+bbcp: 210219 14:45:39  31% done; 110.8 MB/s, avg 112.5 MB/s
+bbcp: 210219 14:45:46  32% done; 108.4 MB/s, avg 112.4 MB/s
+bbcp: 210219 14:45:53  33% done; 108.9 MB/s, avg 112.3 MB/s
+bbcp: 210219 14:46:01  33% done; 108.9 MB/s, avg 112.2 MB/s
+bbcp: 210219 14:46:08  34% done; 103.1 MB/s, avg 112.0 MB/s
+bbcp: 210219 14:46:15  35% done; 110.4 MB/s, avg 111.9 MB/s
+bbcp: 210219 14:46:22  36% done; 110.4 MB/s, avg 111.9 MB/s
+bbcp: 210219 14:46:29  37% done; 110.8 MB/s, avg 111.9 MB/s
+bbcp: 210219 14:46:36  37% done; 100.7 MB/s, avg 111.6 MB/s
+bbcp: 210219 14:46:43  38% done; 110.4 MB/s, avg 111.6 MB/s
+bbcp: 210219 14:46:50  39% done; 110.9 MB/s, avg 111.6 MB/s
+bbcp: 210219 14:46:57  40% done; 107.2 MB/s, avg 111.5 MB/s
+bbcp: 210219 14:47:04  41% done; 93.5 MB/s, avg 111.1 MB/s
+bbcp: 210219 14:47:11  41% done; 107.9 MB/s, avg 111.1 MB/s
+bbcp: 210219 14:47:18  42% done; 107.8 MB/s, avg 111.0 MB/s
+bbcp: 210219 14:47:25  43% done; 107.8 MB/s, avg 111.0 MB/s
+bbcp: 210219 14:47:32  44% done; 101.5 MB/s, avg 110.8 MB/s
+bbcp: 210219 14:47:39  44% done; 105.4 MB/s, avg 110.7 MB/s
+bbcp: 210219 14:47:47  45% done; 107.9 MB/s, avg 110.6 MB/s
+bbcp: 210219 14:47:54  46% done; 107.9 MB/s, avg 110.6 MB/s
+bbcp: 210219 14:48:01  47% done; 96.9 MB/s, avg 110.3 MB/s
+bbcp: 210219 14:48:08  48% done; 102.9 MB/s, avg 110.2 MB/s
+bbcp: 210219 14:48:15  48% done; 107.3 MB/s, avg 110.2 MB/s
+bbcp: 210219 14:48:22  49% done; 106.2 MB/s, avg 110.1 MB/s
+bbcp: 210219 14:48:29  50% done; 106.2 MB/s, avg 110.0 MB/s
+bbcp: 210219 14:48:36  51% done; 96.8 MB/s, avg 109.8 MB/s
+bbcp: 210219 14:48:43  51% done; 106.3 MB/s, avg 109.8 MB/s
+bbcp: 210219 14:48:50  52% done; 105.1 MB/s, avg 109.7 MB/s
+bbcp: 210219 14:48:57  53% done; 105.9 MB/s, avg 109.7 MB/s
+bbcp: 210219 14:49:05  54% done; 91.4 MB/s, avg 109.4 MB/s
+bbcp: 210219 14:49:12  55% done; 105.4 MB/s, avg 109.3 MB/s
+bbcp: 210219 14:49:19  55% done; 106.0 MB/s, avg 109.3 MB/s
+bbcp: 210219 14:49:26  56% done; 102.9 MB/s, avg 109.2 MB/s
+bbcp: 210219 14:49:33  57% done; 100.2 MB/s, avg 109.1 MB/s
+bbcp: 210219 14:49:40  58% done; 105.2 MB/s, avg 109.0 MB/s
+bbcp: 210219 14:49:47  58% done; 105.5 MB/s, avg 108.9 MB/s
+bbcp: 210219 14:49:54  59% done; 105.1 MB/s, avg 108.9 MB/s
+bbcp: 210219 14:50:01  60% done; 99.6 MB/s, avg 108.8 MB/s
+bbcp: 210219 14:50:08  61% done; 98.0 MB/s, avg 108.6 MB/s
+bbcp: 210219 14:50:16  61% done; 105.7 MB/s, avg 108.6 MB/s
+bbcp: 210219 14:50:23  62% done; 104.7 MB/s, avg 108.5 MB/s
+bbcp: 210219 14:50:30  63% done; 106.2 MB/s, avg 108.5 MB/s
+bbcp: 210219 14:50:37  64% done; 96.9 MB/s, avg 108.4 MB/s
+bbcp: 210219 14:50:44  64% done; 106.2 MB/s, avg 108.3 MB/s
+bbcp: 210219 14:50:51  65% done; 104.4 MB/s, avg 108.3 MB/s
+bbcp: 210219 14:50:58  66% done; 105.9 MB/s, avg 108.3 MB/s
+bbcp: 210219 14:51:05  67% done; 96.2 MB/s, avg 108.1 MB/s
+bbcp: 210219 14:51:12  68% done; 106.1 MB/s, avg 108.1 MB/s
+bbcp: 210219 14:51:19  68% done; 105.7 MB/s, avg 108.1 MB/s
+bbcp: 210219 14:51:26  69% done; 105.6 MB/s, avg 108.0 MB/s
+bbcp: 210219 14:51:33  70% done; 96.4 MB/s, avg 107.9 MB/s
+bbcp: 210219 14:51:40  71% done; 106.3 MB/s, avg 107.9 MB/s
+bbcp: 210219 14:51:47  71% done; 106.1 MB/s, avg 107.9 MB/s
+bbcp: 210219 14:51:54  72% done; 105.1 MB/s, avg 107.8 MB/s
+bbcp: 210219 14:52:01  73% done; 100.3 MB/s, avg 107.8 MB/s
+bbcp: 210219 14:52:08  74% done; 92.3 MB/s, avg 107.6 MB/s
+bbcp: 210219 14:52:15  74% done; 103.7 MB/s, avg 107.6 MB/s
+bbcp: 210219 14:52:22  75% done; 104.8 MB/s, avg 107.5 MB/s
+bbcp: 210219 14:52:29  76% done; 101.9 MB/s, avg 107.5 MB/s
+bbcp: 210219 14:52:37  77% done; 100.4 MB/s, avg 107.4 MB/s
+bbcp: 210219 14:52:44  77% done; 102.9 MB/s, avg 107.3 MB/s
+bbcp: 210219 14:52:51  78% done; 103.2 MB/s, avg 107.3 MB/s
+bbcp: 210219 14:52:58  79% done; 102.8 MB/s, avg 107.3 MB/s
+bbcp: 210219 14:53:05  80% done; 96.5 MB/s, avg 107.2 MB/s
+bbcp: 210219 14:53:12  80% done; 102.7 MB/s, avg 107.1 MB/s
+bbcp: 210219 14:53:19  81% done; 102.8 MB/s, avg 107.1 MB/s
+bbcp: 210219 14:53:26  82% done; 102.8 MB/s, avg 107.0 MB/s
+bbcp: 210219 14:53:33  83% done; 96.1 MB/s, avg 106.9 MB/s
+bbcp: 210219 14:53:41  83% done; 99.9 MB/s, avg 106.9 MB/s
+bbcp: 210219 14:53:48  84% done; 103.0 MB/s, avg 106.8 MB/s
+bbcp: 210219 14:53:55  85% done; 102.9 MB/s, avg 106.8 MB/s
+bbcp: 210219 14:54:02  86% done; 93.4 MB/s, avg 106.7 MB/s
+bbcp: 210219 14:54:09  86% done; 99.4 MB/s, avg 106.6 MB/s
+bbcp: 210219 14:54:16  87% done; 102.7 MB/s, avg 106.6 MB/s
+bbcp: 210219 14:54:23  88% done; 102.2 MB/s, avg 106.5 MB/s
+bbcp: 210219 14:54:30  89% done; 98.0 MB/s, avg 106.4 MB/s
+bbcp: 210219 14:54:37  89% done; 98.4 MB/s, avg 106.4 MB/s
+bbcp: 210219 14:54:44  90% done; 102.4 MB/s, avg 106.3 MB/s
+bbcp: 210219 14:54:51  91% done; 102.5 MB/s, avg 106.3 MB/s
+bbcp: 210219 14:54:58  92% done; 103.3 MB/s, avg 106.3 MB/s
+bbcp: 210219 14:55:05  92% done; 91.8 MB/s, avg 106.2 MB/s
+bbcp: 210219 14:55:12  93% done; 102.0 MB/s, avg 106.1 MB/s
+bbcp: 210219 14:55:19  94% done; 102.7 MB/s, avg 106.1 MB/s
+bbcp: 210219 14:55:26  94% done; 103.1 MB/s, avg 106.1 MB/s
+bbcp: 210219 14:55:33  95% done; 93.1 MB/s, avg 106.0 MB/s
+bbcp: 210219 14:55:40  96% done; 103.2 MB/s, avg 105.9 MB/s
+bbcp: 210219 14:55:47  97% done; 103.2 MB/s, avg 105.9 MB/s
+bbcp: 210219 14:55:54  97% done; 101.6 MB/s, avg 105.9 MB/s
+bbcp: 210219 14:56:01  98% done; 96.3 MB/s, avg 105.8 MB/s
+bbcp: 210219 14:56:08  99% done; 100.2 MB/s, avg 105.8 MB/s
+File /home/nsf21528/caltech/100G.dat created; 100000000000 bytes at 105.7 MB/s
+1 file copied at effectively 105.6 MB/s
+
+Running bbcp 100 X 1g transfer
+
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files and 0 links in 1 directory.
+bbcp: Warning: flowtest.caltech.edu is running a newer version of bbcp
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G100.dat
+bbcp: 210219 14:56:24  78% done; 100.4 MB/s, avg 100.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G100.dat created; 1000000000 bytes at 100.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G10.dat
+bbcp: 210219 14:56:33  59% done; 80.7 MB/s, avg 80.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G10.dat created; 1000000000 bytes at 81.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G11.dat
+bbcp: 210219 14:56:45  68% done; 90.8 MB/s, avg 90.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G11.dat created; 1000000000 bytes at 89.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G12.dat
+bbcp: 210219 14:56:56  66% done; 84.1 MB/s, avg 84.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G12.dat created; 1000000000 bytes at 87.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G13.dat
+bbcp: 210219 14:57:07  61% done; 77.0 MB/s, avg 77.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G13.dat created; 1000000000 bytes at 79.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G14.dat
+bbcp: 210219 14:57:19  68% done; 86.2 MB/s, avg 86.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G14.dat created; 1000000000 bytes at 85.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G15.dat
+bbcp: 210219 14:57:30  69% done; 88.4 MB/s, avg 88.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G15.dat created; 1000000000 bytes at 84.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G16.dat
+bbcp: 210219 14:57:41  65% done; 86.7 MB/s, avg 86.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G16.dat created; 1000000000 bytes at 87.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G17.dat
+bbcp: 210219 14:57:52  66% done; 87.2 MB/s, avg 87.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G17.dat created; 1000000000 bytes at 87.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G18.dat
+bbcp: 210219 14:58:03  57% done; 74.3 MB/s, avg 74.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G18.dat created; 1000000000 bytes at 78.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G19.dat
+bbcp: 210219 14:58:15  66% done; 87.5 MB/s, avg 87.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G19.dat created; 1000000000 bytes at 88.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G1.dat
+bbcp: 210219 14:58:26  67% done; 85.1 MB/s, avg 85.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 85.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G20.dat
+bbcp: 210219 14:58:37  64% done; 83.8 MB/s, avg 83.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G20.dat created; 1000000000 bytes at 85.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G21.dat
+bbcp: 210219 14:58:48  65% done; 88.1 MB/s, avg 88.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G21.dat created; 1000000000 bytes at 87.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G22.dat
+bbcp: 210219 14:58:59  66% done; 87.4 MB/s, avg 87.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G22.dat created; 1000000000 bytes at 85.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G23.dat
+bbcp: 210219 14:59:10  62% done; 83.8 MB/s, avg 83.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G23.dat created; 1000000000 bytes at 85.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G24.dat
+bbcp: 210219 14:59:22  71% done; 86.6 MB/s, avg 86.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G24.dat created; 1000000000 bytes at 86.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G25.dat
+bbcp: 210219 14:59:33  71% done; 87.5 MB/s, avg 87.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G25.dat created; 1000000000 bytes at 83.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G26.dat
+bbcp: 210219 14:59:44  66% done; 85.3 MB/s, avg 85.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G26.dat created; 1000000000 bytes at 86.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G27.dat
+bbcp: 210219 14:59:55  67% done; 87.5 MB/s, avg 87.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G27.dat created; 1000000000 bytes at 87.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G28.dat
+bbcp: 210219 15:00:06  60% done; 77.6 MB/s, avg 77.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G28.dat created; 1000000000 bytes at 80.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G29.dat
+bbcp: 210219 15:00:18  70% done; 88.4 MB/s, avg 88.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G29.dat created; 1000000000 bytes at 88.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G2.dat
+bbcp: 210219 15:00:29  74% done; 91.5 MB/s, avg 91.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G30.dat
+bbcp: 210219 15:00:39  61% done; 82.6 MB/s, avg 82.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G30.dat created; 1000000000 bytes at 84.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G31.dat
+bbcp: 210219 15:00:51  71% done; 87.7 MB/s, avg 87.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G31.dat created; 1000000000 bytes at 88.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G32.dat
+bbcp: 210219 15:01:02  61% done; 74.2 MB/s, avg 74.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G32.dat created; 1000000000 bytes at 75.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G33.dat
+bbcp: 210219 15:01:14  68% done; 88.7 MB/s, avg 88.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G33.dat created; 1000000000 bytes at 88.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G34.dat
+bbcp: 210219 15:01:25  70% done; 88.7 MB/s, avg 88.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G34.dat created; 1000000000 bytes at 88.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G35.dat
+bbcp: 210219 15:01:36  68% done; 82.7 MB/s, avg 82.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G35.dat created; 1000000000 bytes at 84.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G36.dat
+bbcp: 210219 15:01:48  71% done; 89.8 MB/s, avg 89.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G36.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G37.dat
+bbcp: 210219 15:01:58  75% done; 90.7 MB/s, avg 90.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G37.dat created; 1000000000 bytes at 88.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G38.dat
+bbcp: 210219 15:02:08  62% done; 83.0 MB/s, avg 83.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G38.dat created; 1000000000 bytes at 85.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G39.dat
+bbcp: 210219 15:02:19  66% done; 90.6 MB/s, avg 90.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G39.dat created; 1000000000 bytes at 90.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G3.dat
+bbcp: 210219 15:02:30  65% done; 83.9 MB/s, avg 83.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G3.dat created; 1000000000 bytes at 81.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G40.dat
+bbcp: 210219 15:02:42  73% done; 89.8 MB/s, avg 89.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G40.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G41.dat
+bbcp: 210219 15:02:52  67% done; 90.6 MB/s, avg 90.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G41.dat created; 1000000000 bytes at 90.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G42.dat
+bbcp: 210219 15:03:03  69% done; 87.3 MB/s, avg 87.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G42.dat created; 1000000000 bytes at 83.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G43.dat
+bbcp: 210219 15:03:14  68% done; 90.6 MB/s, avg 90.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G43.dat created; 1000000000 bytes at 90.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G44.dat
+bbcp: 210219 15:03:25  72% done; 90.7 MB/s, avg 90.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G44.dat created; 1000000000 bytes at 90.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G45.dat
+bbcp: 210219 15:03:35  64% done; 86.9 MB/s, avg 86.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G45.dat created; 1000000000 bytes at 88.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G46.dat
+bbcp: 210219 15:03:46  69% done; 90.7 MB/s, avg 90.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G46.dat created; 1000000000 bytes at 90.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G47.dat
+bbcp: 210219 15:03:57  73% done; 90.7 MB/s, avg 90.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G47.dat created; 1000000000 bytes at 90.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G48.dat
+bbcp: 210219 15:04:07  57% done; 76.0 MB/s, avg 76.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G48.dat created; 1000000000 bytes at 81.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G49.dat
+bbcp: 210219 15:04:19  70% done; 90.4 MB/s, avg 90.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G49.dat created; 1000000000 bytes at 90.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G4.dat
+bbcp: 210219 15:04:30  69% done; 84.1 MB/s, avg 84.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G4.dat created; 1000000000 bytes at 84.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G50.dat
+bbcp: 210219 15:04:41  69% done; 86.7 MB/s, avg 86.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G50.dat created; 1000000000 bytes at 87.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G51.dat
+bbcp: 210219 15:04:52  75% done; 92.9 MB/s, avg 92.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G51.dat created; 1000000000 bytes at 92.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G52.dat
+bbcp: 210219 15:05:02  67% done; 86.9 MB/s, avg 86.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G52.dat created; 1000000000 bytes at 81.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G53.dat
+bbcp: 210219 15:05:14  75% done; 91.9 MB/s, avg 91.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G53.dat created; 1000000000 bytes at 91.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G54.dat
+bbcp: 210219 15:05:24  69% done; 88.8 MB/s, avg 88.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G54.dat created; 1000000000 bytes at 89.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G55.dat
+bbcp: 210219 15:05:35  73% done; 90.1 MB/s, avg 90.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G55.dat created; 1000000000 bytes at 90.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G56.dat
+bbcp: 210219 15:05:45  71% done; 94.2 MB/s, avg 94.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G56.dat created; 1000000000 bytes at 94.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G57.dat
+bbcp: 210219 15:05:55  70% done; 94.2 MB/s, avg 94.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G57.dat created; 1000000000 bytes at 94.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G58.dat
+bbcp: 210219 15:06:06  66% done; 79.1 MB/s, avg 79.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G58.dat created; 1000000000 bytes at 83.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G59.dat
+bbcp: 210219 15:06:17  74% done; 94.2 MB/s, avg 94.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G59.dat created; 1000000000 bytes at 94.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G5.dat
+bbcp: 210219 15:06:27  66% done; 84.8 MB/s, avg 84.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G5.dat created; 1000000000 bytes at 84.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G60.dat
+bbcp: 210219 15:06:38  68% done; 90.5 MB/s, avg 90.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G60.dat created; 1000000000 bytes at 91.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G61.dat
+bbcp: 210219 15:06:49  76% done; 93.9 MB/s, avg 93.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G61.dat created; 1000000000 bytes at 93.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G62.dat
+bbcp: 210219 15:06:59  74% done; 93.8 MB/s, avg 93.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G62.dat created; 1000000000 bytes at 88.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G63.dat
+bbcp: 210219 15:07:10  72% done; 88.3 MB/s, avg 88.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G63.dat created; 1000000000 bytes at 89.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G64.dat
+bbcp: 210219 15:07:20  70% done; 92.5 MB/s, avg 92.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G64.dat created; 1000000000 bytes at 92.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G65.dat
+bbcp: 210219 15:07:31  78% done; 94.1 MB/s, avg 94.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G65.dat created; 1000000000 bytes at 94.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G66.dat
+bbcp: 210219 15:07:41  74% done; 91.0 MB/s, avg 91.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G66.dat created; 1000000000 bytes at 91.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G67.dat
+bbcp: 210219 15:07:51  72% done; 93.8 MB/s, avg 93.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G67.dat created; 1000000000 bytes at 93.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G68.dat
+bbcp: 210219 15:08:01  67% done; 89.4 MB/s, avg 89.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G68.dat created; 1000000000 bytes at 85.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G69.dat
+bbcp: 210219 15:08:12  69% done; 94.8 MB/s, avg 94.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G69.dat created; 1000000000 bytes at 94.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G6.dat
+bbcp: 210219 15:08:23  70% done; 84.2 MB/s, avg 84.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G6.dat created; 1000000000 bytes at 84.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G70.dat
+bbcp: 210219 15:08:34  75% done; 94.4 MB/s, avg 94.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G70.dat created; 1000000000 bytes at 91.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G71.dat
+bbcp: 210219 15:08:44  71% done; 94.9 MB/s, avg 94.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G71.dat created; 1000000000 bytes at 95.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G72.dat
+bbcp: 210219 15:08:54  73% done; 97.3 MB/s, avg 97.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G72.dat created; 1000000000 bytes at 97.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G73.dat
+bbcp: 210219 15:09:04  70% done; 90.5 MB/s, avg 90.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G73.dat created; 1000000000 bytes at 88.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G74.dat
+bbcp: 210219 15:09:15  78% done; 97.7 MB/s, avg 97.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G74.dat created; 1000000000 bytes at 95.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G75.dat
+bbcp: 210219 15:09:25  78% done; 97.9 MB/s, avg 97.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G75.dat created; 1000000000 bytes at 98.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G76.dat
+bbcp: 210219 15:09:35  76% done; 92.7 MB/s, avg 92.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G76.dat created; 1000000000 bytes at 94.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G77.dat
+bbcp: 210219 15:09:45  79% done; 97.8 MB/s, avg 97.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G77.dat created; 1000000000 bytes at 97.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G78.dat
+bbcp: 210219 15:09:55  71% done; 97.8 MB/s, avg 97.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G78.dat created; 1000000000 bytes at 97.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G79.dat
+bbcp: 210219 15:10:05  66% done; 87.2 MB/s, avg 87.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G79.dat created; 1000000000 bytes at 86.3 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G7.dat
+bbcp: 210219 15:10:15  63% done; 83.6 MB/s, avg 83.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G7.dat created; 1000000000 bytes at 84.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G80.dat
+bbcp: 210219 15:10:27  81% done; 97.7 MB/s, avg 97.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G80.dat created; 1000000000 bytes at 97.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G81.dat
+bbcp: 210219 15:10:36  71% done; 94.4 MB/s, avg 94.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G81.dat created; 1000000000 bytes at 95.4 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G82.dat
+bbcp: 210219 15:10:46  73% done; 96.7 MB/s, avg 96.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G82.dat created; 1000000000 bytes at 96.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G83.dat
+bbcp: 210219 15:10:56  74% done; 97.5 MB/s, avg 97.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G83.dat created; 1000000000 bytes at 97.6 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G84.dat
+bbcp: 210219 15:11:06  66% done; 84.3 MB/s, avg 84.3 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G84.dat created; 1000000000 bytes at 87.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G85.dat
+bbcp: 210219 15:11:17  77% done; 96.5 MB/s, avg 96.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G85.dat created; 1000000000 bytes at 96.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G86.dat
+bbcp: 210219 15:11:27  79% done; 96.7 MB/s, avg 96.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G86.dat created; 1000000000 bytes at 96.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G87.dat
+bbcp: 210219 15:11:37  75% done; 90.9 MB/s, avg 90.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G87.dat created; 1000000000 bytes at 92.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G88.dat
+bbcp: 210219 15:11:47  78% done; 98.0 MB/s, avg 98.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G88.dat created; 1000000000 bytes at 98.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G89.dat
+bbcp: 210219 15:11:57  81% done; 98.0 MB/s, avg 98.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G89.dat created; 1000000000 bytes at 98.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G8.dat
+bbcp: 210219 15:12:06  56% done; 75.2 MB/s, avg 75.2 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G8.dat created; 1000000000 bytes at 78.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G90.dat
+bbcp: 210219 15:12:18  72% done; 97.1 MB/s, avg 97.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G90.dat created; 1000000000 bytes at 97.2 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G91.dat
+bbcp: 210219 15:12:28  75% done; 98.9 MB/s, avg 98.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G91.dat created; 1000000000 bytes at 98.7 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G92.dat
+bbcp: 210219 15:12:38  73% done; 92.5 MB/s, avg 92.5 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G92.dat created; 1000000000 bytes at 94.0 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G93.dat
+bbcp: 210219 15:12:48  77% done; 98.9 MB/s, avg 98.9 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G93.dat created; 1000000000 bytes at 99.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G94.dat
+bbcp: 210219 15:12:58  79% done; 96.8 MB/s, avg 96.8 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G94.dat created; 1000000000 bytes at 97.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G95.dat
+bbcp: 210219 15:13:07  64% done; 87.7 MB/s, avg 87.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G95.dat created; 1000000000 bytes at 91.5 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G96.dat
+bbcp: 210219 15:13:18  79% done; 100.1 MB/s, avg 100.1 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G96.dat created; 1000000000 bytes at 100.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G97.dat
+bbcp: 210219 15:13:27  74% done; 100.0 MB/s, avg 100.0 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G97.dat created; 1000000000 bytes at 99.9 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G98.dat
+bbcp: 210219 15:13:37  77% done; 97.7 MB/s, avg 97.7 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G98.dat created; 1000000000 bytes at 98.1 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G99.dat
+bbcp: 210219 15:13:47  82% done; 101.4 MB/s, avg 101.4 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 100.8 MB/s
+bbcp: Creating /home/nsf21528/caltech/nsf21-528-100g/1G9.dat
+bbcp: 210219 15:13:56  65% done; 85.6 MB/s, avg 85.6 MB/s
+File /home/nsf21528/caltech/nsf21-528-100g/1G9.dat created; 1000000000 bytes at 86.4 MB/s
+100 files copied at effectively 89.5 MB/s
