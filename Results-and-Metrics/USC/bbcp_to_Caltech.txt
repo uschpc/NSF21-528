@@ -1,0 +1,448 @@
+Running bbcp copying /home/nsf21528/100G.dat to netadm@192.31.43.1:/home/netadm/USC
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/100G.dat netadm@192.31.43.1:/home/netadm/USC
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files and 0 links in 0 directories.
+bbcp: Warning: hpc-mdtn2.usc.edu is running an older version of bbcp
+bbcp: Creating /home/netadm/USC/100G.dat
+bbcp: 210218 17:45:42  2% done; 276.9 MB/s, avg 276.9 MB/s
+bbcp: 210218 17:45:49  3% done; 103.0 MB/s, avg 194.5 MB/s
+bbcp: 210218 17:45:56  3% done; 99.8 MB/s, avg 164.1 MB/s
+bbcp: 210218 17:46:03  4% done; 96.1 MB/s, avg 147.5 MB/s
+bbcp: 210218 17:46:10  5% done; 94.9 MB/s, avg 137.2 MB/s
+bbcp: 210218 17:46:17  5% done; 94.9 MB/s, avg 130.3 MB/s
+bbcp: 210218 17:46:24  6% done; 94.6 MB/s, avg 125.3 MB/s
+bbcp: 210218 17:46:31  7% done; 97.1 MB/s, avg 121.8 MB/s
+bbcp: 210218 17:46:38  8% done; 105.9 MB/s, avg 120.1 MB/s
+bbcp: 210218 17:46:45  8% done; 108.0 MB/s, avg 118.9 MB/s
+bbcp: 210218 17:46:52  9% done; 110.4 MB/s, avg 118.1 MB/s
+bbcp: 210218 17:46:59  10% done; 111.3 MB/s, avg 117.6 MB/s
+bbcp: 210218 17:47:06  11% done; 107.4 MB/s, avg 116.8 MB/s
+bbcp: 210218 17:47:13  12% done; 104.2 MB/s, avg 115.9 MB/s
+bbcp: 210218 17:47:20  12% done; 103.4 MB/s, avg 115.1 MB/s
+bbcp: 210218 17:47:27  13% done; 104.4 MB/s, avg 114.4 MB/s
+bbcp: 210218 17:47:34  14% done; 110.9 MB/s, avg 114.2 MB/s
+bbcp: 210218 17:47:41  15% done; 110.7 MB/s, avg 114.0 MB/s
+bbcp: 210218 17:47:48  15% done; 109.7 MB/s, avg 113.8 MB/s
+bbcp: 210218 17:47:55  16% done; 109.1 MB/s, avg 113.6 MB/s
+bbcp: 210218 17:48:02  17% done; 108.8 MB/s, avg 113.3 MB/s
+bbcp: 210218 17:48:09  18% done; 105.3 MB/s, avg 113.0 MB/s
+bbcp: 210218 17:48:16  19% done; 101.9 MB/s, avg 112.5 MB/s
+bbcp: 210218 17:48:23  19% done; 105.4 MB/s, avg 112.2 MB/s
+bbcp: 210218 17:48:30  20% done; 105.2 MB/s, avg 111.9 MB/s
+bbcp: 210218 17:48:37  21% done; 109.1 MB/s, avg 111.8 MB/s
+bbcp: 210218 17:48:44  22% done; 108.2 MB/s, avg 111.7 MB/s
+bbcp: 210218 17:48:51  23% done; 107.9 MB/s, avg 111.5 MB/s
+bbcp: 210218 17:48:58  23% done; 104.7 MB/s, avg 111.3 MB/s
+bbcp: 210218 17:49:05  24% done; 103.6 MB/s, avg 111.0 MB/s
+bbcp: 210218 17:49:12  25% done; 102.2 MB/s, avg 110.8 MB/s
+bbcp: 210218 17:49:19  26% done; 104.7 MB/s, avg 110.6 MB/s
+bbcp: 210218 17:49:26  26% done; 104.9 MB/s, avg 110.4 MB/s
+bbcp: 210218 17:49:33  27% done; 106.2 MB/s, avg 110.3 MB/s
+bbcp: 210218 17:49:40  28% done; 106.8 MB/s, avg 110.2 MB/s
+bbcp: 210218 17:49:47  29% done; 106.4 MB/s, avg 110.1 MB/s
+bbcp: 210218 17:49:54  29% done; 108.3 MB/s, avg 110.0 MB/s
+bbcp: 210218 17:50:01  30% done; 107.8 MB/s, avg 110.0 MB/s
+bbcp: 210218 17:50:08  31% done; 100.4 MB/s, avg 109.7 MB/s
+bbcp: 210218 17:50:15  32% done; 100.9 MB/s, avg 109.5 MB/s
+bbcp: 210218 17:50:22  32% done; 99.8 MB/s, avg 109.3 MB/s
+bbcp: 210218 17:50:29  33% done; 101.9 MB/s, avg 109.1 MB/s
+bbcp: 210218 17:50:36  34% done; 106.7 MB/s, avg 109.0 MB/s
+bbcp: 210218 17:50:43  35% done; 105.2 MB/s, avg 109.0 MB/s
+bbcp: 210218 17:50:50  36% done; 102.6 MB/s, avg 108.8 MB/s
+bbcp: 210218 17:50:57  36% done; 103.6 MB/s, avg 108.7 MB/s
+bbcp: 210218 17:51:04  37% done; 103.1 MB/s, avg 108.6 MB/s
+bbcp: 210218 17:51:11  38% done; 103.1 MB/s, avg 108.5 MB/s
+bbcp: 210218 17:51:18  39% done; 102.2 MB/s, avg 108.3 MB/s
+bbcp: 210218 17:51:25  39% done; 102.4 MB/s, avg 108.2 MB/s
+bbcp: 210218 17:51:32  40% done; 103.1 MB/s, avg 108.1 MB/s
+bbcp: 210218 17:51:39  41% done; 104.4 MB/s, avg 108.0 MB/s
+bbcp: 210218 17:51:46  42% done; 102.4 MB/s, avg 107.9 MB/s
+bbcp: 210218 17:51:53  42% done; 101.3 MB/s, avg 107.8 MB/s
+bbcp: 210218 17:52:00  43% done; 98.3 MB/s, avg 107.6 MB/s
+bbcp: 210218 17:52:07  44% done; 94.2 MB/s, avg 107.4 MB/s
+bbcp: 210218 17:52:14  44% done; 98.4 MB/s, avg 107.2 MB/s
+bbcp: 210218 17:52:21  45% done; 98.8 MB/s, avg 107.1 MB/s
+bbcp: 210218 17:52:28  46% done; 97.9 MB/s, avg 106.9 MB/s
+bbcp: 210218 17:52:35  47% done; 100.8 MB/s, avg 106.8 MB/s
+bbcp: 210218 17:52:42  47% done; 102.1 MB/s, avg 106.8 MB/s
+bbcp: 210218 17:52:49  48% done; 101.1 MB/s, avg 106.7 MB/s
+bbcp: 210218 17:52:56  49% done; 102.1 MB/s, avg 106.6 MB/s
+bbcp: 210218 17:53:03  50% done; 102.7 MB/s, avg 106.5 MB/s
+bbcp: 210218 17:53:10  50% done; 102.7 MB/s, avg 106.5 MB/s
+bbcp: 210218 17:53:17  51% done; 100.7 MB/s, avg 106.4 MB/s
+bbcp: 210218 17:53:24  52% done; 99.8 MB/s, avg 106.3 MB/s
+bbcp: 210218 17:53:31  53% done; 98.8 MB/s, avg 106.2 MB/s
+bbcp: 210218 17:53:38  53% done; 101.2 MB/s, avg 106.1 MB/s
+bbcp: 210218 17:53:45  54% done; 97.5 MB/s, avg 106.0 MB/s
+bbcp: 210218 17:53:52  55% done; 100.7 MB/s, avg 105.9 MB/s
+bbcp: 210218 17:53:59  56% done; 98.7 MB/s, avg 105.8 MB/s
+bbcp: 210218 17:54:06  56% done; 99.8 MB/s, avg 105.7 MB/s
+bbcp: 210218 17:54:13  57% done; 97.1 MB/s, avg 105.6 MB/s
+bbcp: 210218 17:54:20  58% done; 101.1 MB/s, avg 105.6 MB/s
+bbcp: 210218 17:54:27  58% done; 99.5 MB/s, avg 105.5 MB/s
+bbcp: 210218 17:54:34  59% done; 101.1 MB/s, avg 105.4 MB/s
+bbcp: 210218 17:54:41  60% done; 103.8 MB/s, avg 105.4 MB/s
+bbcp: 210218 17:54:48  61% done; 103.9 MB/s, avg 105.4 MB/s
+bbcp: 210218 17:54:55  61% done; 100.7 MB/s, avg 105.3 MB/s
+bbcp: 210218 17:55:02  62% done; 101.8 MB/s, avg 105.3 MB/s
+bbcp: 210218 17:55:09  63% done; 96.3 MB/s, avg 105.2 MB/s
+bbcp: 210218 17:55:16  64% done; 96.2 MB/s, avg 105.1 MB/s
+bbcp: 210218 17:55:23  64% done; 99.5 MB/s, avg 105.0 MB/s
+bbcp: 210218 17:55:30  65% done; 100.6 MB/s, avg 104.9 MB/s
+bbcp: 210218 17:55:37  66% done; 102.0 MB/s, avg 104.9 MB/s
+bbcp: 210218 17:55:44  67% done; 101.1 MB/s, avg 104.9 MB/s
+bbcp: 210218 17:55:51  67% done; 100.4 MB/s, avg 104.8 MB/s
+bbcp: 210218 17:55:58  68% done; 100.7 MB/s, avg 104.8 MB/s
+bbcp: 210218 17:56:05  69% done; 101.0 MB/s, avg 104.7 MB/s
+bbcp: 210218 17:56:12  69% done; 98.3 MB/s, avg 104.7 MB/s
+bbcp: 210218 17:56:19  70% done; 99.8 MB/s, avg 104.6 MB/s
+bbcp: 210218 17:56:26  71% done; 98.9 MB/s, avg 104.5 MB/s
+bbcp: 210218 17:56:34  72% done; 100.2 MB/s, avg 104.5 MB/s
+bbcp: 210218 17:56:41  73% done; 102.2 MB/s, avg 104.5 MB/s
+bbcp: 210218 17:56:48  73% done; 101.3 MB/s, avg 104.4 MB/s
+bbcp: 210218 17:56:55  74% done; 101.9 MB/s, avg 104.4 MB/s
+bbcp: 210218 17:57:02  75% done; 101.6 MB/s, avg 104.4 MB/s
+bbcp: 210218 17:57:09  76% done; 101.9 MB/s, avg 104.4 MB/s
+bbcp: 210218 17:57:16  76% done; 101.9 MB/s, avg 104.3 MB/s
+bbcp: 210218 17:57:23  77% done; 98.6 MB/s, avg 104.3 MB/s
+bbcp: 210218 17:57:30  78% done; 97.1 MB/s, avg 104.2 MB/s
+bbcp: 210218 17:57:37  78% done; 99.9 MB/s, avg 104.2 MB/s
+bbcp: 210218 17:57:44  79% done; 97.2 MB/s, avg 104.1 MB/s
+bbcp: 210218 17:57:51  80% done; 98.7 MB/s, avg 104.0 MB/s
+bbcp: 210218 17:57:58  81% done; 97.9 MB/s, avg 104.0 MB/s
+bbcp: 210218 17:58:05  81% done; 98.0 MB/s, avg 103.9 MB/s
+bbcp: 210218 17:58:12  82% done; 96.3 MB/s, avg 103.9 MB/s
+bbcp: 210218 17:58:19  83% done; 95.4 MB/s, avg 103.8 MB/s
+bbcp: 210218 17:58:26  83% done; 97.9 MB/s, avg 103.7 MB/s
+bbcp: 210218 17:58:33  84% done; 100.0 MB/s, avg 103.7 MB/s
+bbcp: 210218 17:58:40  85% done; 100.7 MB/s, avg 103.7 MB/s
+bbcp: 210218 17:58:47  86% done; 100.3 MB/s, avg 103.6 MB/s
+bbcp: 210218 17:58:54  86% done; 101.2 MB/s, avg 103.6 MB/s
+bbcp: 210218 17:59:01  87% done; 99.5 MB/s, avg 103.6 MB/s
+bbcp: 210218 17:59:08  88% done; 98.3 MB/s, avg 103.5 MB/s
+bbcp: 210218 17:59:15  89% done; 95.2 MB/s, avg 103.5 MB/s
+bbcp: 210218 17:59:22  89% done; 95.6 MB/s, avg 103.4 MB/s
+bbcp: 210218 17:59:29  90% done; 97.4 MB/s, avg 103.3 MB/s
+bbcp: 210218 17:59:36  91% done; 100.9 MB/s, avg 103.3 MB/s
+bbcp: 210218 17:59:43  91% done; 101.4 MB/s, avg 103.3 MB/s
+bbcp: 210218 17:59:50  92% done; 100.6 MB/s, avg 103.3 MB/s
+bbcp: 210218 17:59:58  93% done; 100.3 MB/s, avg 103.3 MB/s
+bbcp: 210218 18:00:05  94% done; 96.1 MB/s, avg 103.2 MB/s
+bbcp: 210218 18:00:12  94% done; 91.6 MB/s, avg 103.1 MB/s
+bbcp: 210218 18:00:19  95% done; 90.2 MB/s, avg 103.0 MB/s
+bbcp: 210218 18:00:26  96% done; 92.1 MB/s, avg 102.9 MB/s
+bbcp: 210218 18:00:33  96% done; 95.1 MB/s, avg 102.9 MB/s
+bbcp: 210218 18:00:40  97% done; 96.8 MB/s, avg 102.8 MB/s
+bbcp: 210218 18:00:47  98% done; 92.4 MB/s, avg 102.7 MB/s
+bbcp: 210218 18:00:54  99% done; 95.0 MB/s, avg 102.7 MB/s
+bbcp: 210218 18:01:01  99% done; 96.0 MB/s, avg 102.6 MB/s
+File /home/netadm/USC/100G.dat created; 100000000000 bytes at 102.4 MB/s
+1 file copied at effectively 100.9 MB/s
+
+Running bbcp copying /home/nsf21528/nsf21-528-100g/ to netadm@192.31.43.1:/home/netadm/USC
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/nsf21-528-100g/ netadm@192.31.43.1:/home/netadm/USC
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files and 0 links in 1 directory.
+bbcp: Warning: hpc-mdtn2.usc.edu is running an older version of bbcp
+bbcp: Creating /home/netadm/USC//1G100.dat
+File /home/netadm/USC//1G100.dat created; 1000000000 bytes at 293.9 MB/s
+bbcp: Creating /home/netadm/USC//1G99.dat
+bbcp: 210218 18:01:27  85% done; 111.3 MB/s, avg 111.3 MB/s
+File /home/netadm/USC//1G99.dat created; 1000000000 bytes at 110.3 MB/s
+bbcp: Creating /home/netadm/USC//1G98.dat
+bbcp: 210218 18:01:36  81% done; 100.6 MB/s, avg 100.6 MB/s
+File /home/netadm/USC//1G98.dat created; 1000000000 bytes at 100.9 MB/s
+bbcp: Creating /home/netadm/USC//1G97.dat
+bbcp: 210218 18:01:45  75% done; 99.8 MB/s, avg 99.8 MB/s
+File /home/netadm/USC//1G97.dat created; 1000000000 bytes at 99.8 MB/s
+bbcp: Creating /home/netadm/USC//1G96.dat
+bbcp: 210218 18:01:55  80% done; 99.5 MB/s, avg 99.5 MB/s
+File /home/netadm/USC//1G96.dat created; 1000000000 bytes at 99.4 MB/s
+bbcp: Creating /home/netadm/USC//1G95.dat
+bbcp: 210218 18:02:04  70% done; 94.4 MB/s, avg 94.4 MB/s
+File /home/netadm/USC//1G95.dat created; 1000000000 bytes at 92.7 MB/s
+bbcp: Creating /home/netadm/USC//1G94.dat
+bbcp: 210218 18:02:15  73% done; 90.4 MB/s, avg 90.4 MB/s
+File /home/netadm/USC//1G94.dat created; 1000000000 bytes at 90.3 MB/s
+bbcp: Creating /home/netadm/USC//1G93.dat
+bbcp: 210218 18:02:25  69% done; 91.1 MB/s, avg 91.1 MB/s
+File /home/netadm/USC//1G93.dat created; 1000000000 bytes at 90.8 MB/s
+bbcp: Creating /home/netadm/USC//1G92.dat
+bbcp: 210218 18:02:36  76% done; 94.4 MB/s, avg 94.4 MB/s
+File /home/netadm/USC//1G92.dat created; 1000000000 bytes at 95.5 MB/s
+bbcp: Creating /home/netadm/USC//1G91.dat
+bbcp: 210218 18:02:46  76% done; 94.8 MB/s, avg 94.8 MB/s
+File /home/netadm/USC//1G91.dat created; 1000000000 bytes at 94.8 MB/s
+bbcp: Creating /home/netadm/USC//1G90.dat
+bbcp: 210218 18:02:56  75% done; 94.3 MB/s, avg 94.3 MB/s
+File /home/netadm/USC//1G90.dat created; 1000000000 bytes at 93.9 MB/s
+bbcp: Creating /home/netadm/USC//1G89.dat
+bbcp: 210218 18:03:06  73% done; 93.5 MB/s, avg 93.5 MB/s
+File /home/netadm/USC//1G89.dat created; 1000000000 bytes at 92.7 MB/s
+bbcp: Creating /home/netadm/USC//1G88.dat
+bbcp: 210218 18:03:16  66% done; 88.3 MB/s, avg 88.3 MB/s
+File /home/netadm/USC//1G88.dat created; 1000000000 bytes at 88.5 MB/s
+bbcp: Creating /home/netadm/USC//1G87.dat
+bbcp: 210218 18:03:27  69% done; 88.9 MB/s, avg 88.9 MB/s
+File /home/netadm/USC//1G87.dat created; 1000000000 bytes at 92.1 MB/s
+bbcp: Creating /home/netadm/USC//1G86.dat
+bbcp: 210218 18:03:37  69% done; 93.7 MB/s, avg 93.7 MB/s
+File /home/netadm/USC//1G86.dat created; 1000000000 bytes at 94.3 MB/s
+bbcp: Creating /home/netadm/USC//1G85.dat
+bbcp: 210218 18:03:48  79% done; 95.0 MB/s, avg 95.0 MB/s
+File /home/netadm/USC//1G85.dat created; 1000000000 bytes at 94.9 MB/s
+bbcp: Creating /home/netadm/USC//1G84.dat
+bbcp: 210218 18:03:58  78% done; 93.9 MB/s, avg 93.9 MB/s
+File /home/netadm/USC//1G84.dat created; 1000000000 bytes at 93.0 MB/s
+bbcp: Creating /home/netadm/USC//1G83.dat
+bbcp: 210218 18:04:08  72% done; 90.0 MB/s, avg 90.0 MB/s
+File /home/netadm/USC//1G83.dat created; 1000000000 bytes at 89.8 MB/s
+bbcp: Creating /home/netadm/USC//1G82.dat
+bbcp: 210218 18:04:18  63% done; 86.6 MB/s, avg 86.6 MB/s
+File /home/netadm/USC//1G82.dat created; 1000000000 bytes at 89.4 MB/s
+bbcp: Creating /home/netadm/USC//1G81.dat
+bbcp: 210218 18:04:29  71% done; 92.6 MB/s, avg 92.6 MB/s
+File /home/netadm/USC//1G81.dat created; 1000000000 bytes at 93.0 MB/s
+bbcp: Creating /home/netadm/USC//1G80.dat
+bbcp: 210218 18:04:39  69% done; 93.2 MB/s, avg 93.2 MB/s
+File /home/netadm/USC//1G80.dat created; 1000000000 bytes at 94.2 MB/s
+bbcp: Creating /home/netadm/USC//1G79.dat
+bbcp: 210218 18:04:50  78% done; 94.0 MB/s, avg 94.0 MB/s
+File /home/netadm/USC//1G79.dat created; 1000000000 bytes at 94.5 MB/s
+bbcp: Creating /home/netadm/USC//1G78.dat
+bbcp: 210218 18:05:00  76% done; 92.5 MB/s, avg 92.5 MB/s
+File /home/netadm/USC//1G78.dat created; 1000000000 bytes at 91.0 MB/s
+bbcp: Creating /home/netadm/USC//1G77.dat
+bbcp: 210218 18:05:10  63% done; 82.2 MB/s, avg 82.2 MB/s
+File /home/netadm/USC//1G77.dat created; 1000000000 bytes at 83.2 MB/s
+bbcp: Creating /home/netadm/USC//1G76.dat
+bbcp: 210218 18:05:22  72% done; 86.9 MB/s, avg 86.9 MB/s
+File /home/netadm/USC//1G76.dat created; 1000000000 bytes at 87.6 MB/s
+bbcp: Creating /home/netadm/USC//1G75.dat
+bbcp: 210218 18:05:32  65% done; 87.9 MB/s, avg 87.9 MB/s
+File /home/netadm/USC//1G75.dat created; 1000000000 bytes at 89.3 MB/s
+bbcp: Creating /home/netadm/USC//1G74.dat
+bbcp: 210218 18:05:43  70% done; 91.8 MB/s, avg 91.8 MB/s
+File /home/netadm/USC//1G74.dat created; 1000000000 bytes at 90.5 MB/s
+bbcp: Creating /home/netadm/USC//1G73.dat
+bbcp: 210218 18:05:54  74% done; 91.0 MB/s, avg 91.0 MB/s
+File /home/netadm/USC//1G73.dat created; 1000000000 bytes at 90.9 MB/s
+bbcp: Creating /home/netadm/USC//1G72.dat
+bbcp: 210218 18:06:04  69% done; 90.8 MB/s, avg 90.8 MB/s
+File /home/netadm/USC//1G72.dat created; 1000000000 bytes at 90.2 MB/s
+bbcp: Creating /home/netadm/USC//1G71.dat
+bbcp: 210218 18:06:15  71% done; 88.2 MB/s, avg 88.2 MB/s
+File /home/netadm/USC//1G71.dat created; 1000000000 bytes at 89.2 MB/s
+bbcp: Creating /home/netadm/USC//1G70.dat
+bbcp: 210218 18:06:25  69% done; 93.2 MB/s, avg 93.2 MB/s
+File /home/netadm/USC//1G70.dat created; 1000000000 bytes at 92.4 MB/s
+bbcp: Creating /home/netadm/USC//1G69.dat
+bbcp: 210218 18:06:36  75% done; 92.4 MB/s, avg 92.4 MB/s
+File /home/netadm/USC//1G69.dat created; 1000000000 bytes at 92.3 MB/s
+bbcp: Creating /home/netadm/USC//1G68.dat
+bbcp: 210218 18:06:46  70% done; 91.1 MB/s, avg 91.1 MB/s
+File /home/netadm/USC//1G68.dat created; 1000000000 bytes at 90.9 MB/s
+bbcp: Creating /home/netadm/USC//1G67.dat
+bbcp: 210218 18:06:57  75% done; 90.6 MB/s, avg 90.6 MB/s
+File /home/netadm/USC//1G67.dat created; 1000000000 bytes at 90.6 MB/s
+bbcp: Creating /home/netadm/USC//1G66.dat
+bbcp: 210218 18:07:07  66% done; 85.7 MB/s, avg 85.7 MB/s
+File /home/netadm/USC//1G66.dat created; 1000000000 bytes at 85.7 MB/s
+bbcp: Creating /home/netadm/USC//1G65.dat
+bbcp: 210218 18:07:18  65% done; 85.6 MB/s, avg 85.6 MB/s
+File /home/netadm/USC//1G65.dat created; 1000000000 bytes at 86.4 MB/s
+bbcp: Creating /home/netadm/USC//1G64.dat
+bbcp: 210218 18:07:29  67% done; 89.7 MB/s, avg 89.7 MB/s
+File /home/netadm/USC//1G64.dat created; 1000000000 bytes at 90.1 MB/s
+bbcp: Creating /home/netadm/USC//1G63.dat
+bbcp: 210218 18:07:40  73% done; 91.7 MB/s, avg 91.7 MB/s
+File /home/netadm/USC//1G63.dat created; 1000000000 bytes at 92.0 MB/s
+bbcp: Creating /home/netadm/USC//1G62.dat
+bbcp: 210218 18:07:50  66% done; 87.9 MB/s, avg 87.9 MB/s
+File /home/netadm/USC//1G62.dat created; 1000000000 bytes at 88.9 MB/s
+bbcp: Creating /home/netadm/USC//1G61.dat
+bbcp: 210218 18:08:01  70% done; 89.3 MB/s, avg 89.3 MB/s
+File /home/netadm/USC//1G61.dat created; 1000000000 bytes at 88.8 MB/s
+bbcp: Creating /home/netadm/USC//1G60.dat
+bbcp: 210218 18:08:12  69% done; 85.8 MB/s, avg 85.8 MB/s
+File /home/netadm/USC//1G60.dat created; 1000000000 bytes at 85.7 MB/s
+bbcp: Creating /home/netadm/USC//1G59.dat
+bbcp: 210218 18:08:23  70% done; 88.4 MB/s, avg 88.4 MB/s
+File /home/netadm/USC//1G59.dat created; 1000000000 bytes at 88.8 MB/s
+bbcp: Creating /home/netadm/USC//1G58.dat
+bbcp: 210218 18:08:35  74% done; 89.3 MB/s, avg 89.3 MB/s
+File /home/netadm/USC//1G58.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/netadm/USC//1G57.dat
+bbcp: 210218 18:08:44  70% done; 92.0 MB/s, avg 92.0 MB/s
+File /home/netadm/USC//1G57.dat created; 1000000000 bytes at 90.9 MB/s
+bbcp: Creating /home/netadm/USC//1G56.dat
+bbcp: 210218 18:08:55  73% done; 89.3 MB/s, avg 89.3 MB/s
+File /home/netadm/USC//1G56.dat created; 1000000000 bytes at 89.4 MB/s
+bbcp: Creating /home/netadm/USC//1G55.dat
+bbcp: 210218 18:09:05  65% done; 88.2 MB/s, avg 88.2 MB/s
+File /home/netadm/USC//1G55.dat created; 1000000000 bytes at 88.1 MB/s
+bbcp: Creating /home/netadm/USC//1G54.dat
+bbcp: 210218 18:09:16  66% done; 86.7 MB/s, avg 86.7 MB/s
+File /home/netadm/USC//1G54.dat created; 1000000000 bytes at 86.6 MB/s
+bbcp: Creating /home/netadm/USC//1G53.dat
+bbcp: 210218 18:09:27  66% done; 87.4 MB/s, avg 87.4 MB/s
+File /home/netadm/USC//1G53.dat created; 1000000000 bytes at 87.8 MB/s
+bbcp: Creating /home/netadm/USC//1G52.dat
+bbcp: 210218 18:09:38  69% done; 89.3 MB/s, avg 89.3 MB/s
+File /home/netadm/USC//1G52.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/netadm/USC//1G51.dat
+bbcp: 210218 18:09:49  71% done; 87.2 MB/s, avg 87.2 MB/s
+File /home/netadm/USC//1G51.dat created; 1000000000 bytes at 87.9 MB/s
+bbcp: Creating /home/netadm/USC//1G50.dat
+bbcp: 210218 18:10:00  71% done; 85.7 MB/s, avg 85.7 MB/s
+File /home/netadm/USC//1G50.dat created; 1000000000 bytes at 85.0 MB/s
+bbcp: Creating /home/netadm/USC//1G49.dat
+bbcp: 210218 18:10:11  64% done; 78.5 MB/s, avg 78.5 MB/s
+File /home/netadm/USC//1G49.dat created; 1000000000 bytes at 78.3 MB/s
+bbcp: Creating /home/netadm/USC//1G48.dat
+bbcp: 210218 18:10:23  64% done; 81.4 MB/s, avg 81.4 MB/s
+File /home/netadm/USC//1G48.dat created; 1000000000 bytes at 81.9 MB/s
+bbcp: Creating /home/netadm/USC//1G47.dat
+bbcp: 210218 18:10:35  70% done; 84.6 MB/s, avg 84.6 MB/s
+File /home/netadm/USC//1G47.dat created; 1000000000 bytes at 85.2 MB/s
+bbcp: Creating /home/netadm/USC//1G46.dat
+bbcp: 210218 18:10:46  68% done; 84.7 MB/s, avg 84.7 MB/s
+File /home/netadm/USC//1G46.dat created; 1000000000 bytes at 84.4 MB/s
+bbcp: Creating /home/netadm/USC//1G45.dat
+bbcp: 210218 18:10:57  66% done; 85.0 MB/s, avg 85.0 MB/s
+File /home/netadm/USC//1G45.dat created; 1000000000 bytes at 84.9 MB/s
+bbcp: Creating /home/netadm/USC//1G44.dat
+bbcp: 210218 18:11:08  62% done; 83.2 MB/s, avg 83.2 MB/s
+File /home/netadm/USC//1G44.dat created; 1000000000 bytes at 82.7 MB/s
+bbcp: Creating /home/netadm/USC//1G43.dat
+bbcp: 210218 18:11:20  65% done; 82.0 MB/s, avg 82.0 MB/s
+File /home/netadm/USC//1G43.dat created; 1000000000 bytes at 83.2 MB/s
+bbcp: Creating /home/netadm/USC//1G42.dat
+bbcp: 210218 18:11:31  63% done; 84.2 MB/s, avg 84.2 MB/s
+File /home/netadm/USC//1G42.dat created; 1000000000 bytes at 85.3 MB/s
+bbcp: Creating /home/netadm/USC//1G41.dat
+bbcp: 210218 18:11:42  64% done; 88.1 MB/s, avg 88.1 MB/s
+File /home/netadm/USC//1G41.dat created; 1000000000 bytes at 88.2 MB/s
+bbcp: Creating /home/netadm/USC//1G40.dat
+bbcp: 210218 18:11:53  63% done; 84.3 MB/s, avg 84.3 MB/s
+File /home/netadm/USC//1G40.dat created; 1000000000 bytes at 85.5 MB/s
+bbcp: Creating /home/netadm/USC//1G39.dat
+bbcp: 210218 18:12:04  62% done; 84.3 MB/s, avg 84.3 MB/s
+File /home/netadm/USC//1G39.dat created; 1000000000 bytes at 83.2 MB/s
+bbcp: Creating /home/netadm/USC//1G38.dat
+bbcp: 210218 18:12:16  64% done; 81.2 MB/s, avg 81.2 MB/s
+File /home/netadm/USC//1G38.dat created; 1000000000 bytes at 82.8 MB/s
+bbcp: Creating /home/netadm/USC//1G37.dat
+bbcp: 210218 18:12:27  63% done; 85.0 MB/s, avg 85.0 MB/s
+File /home/netadm/USC//1G37.dat created; 1000000000 bytes at 85.2 MB/s
+bbcp: Creating /home/netadm/USC//1G36.dat
+bbcp: 210218 18:12:39  71% done; 86.9 MB/s, avg 86.9 MB/s
+File /home/netadm/USC//1G36.dat created; 1000000000 bytes at 87.0 MB/s
+bbcp: Creating /home/netadm/USC//1G35.dat
+bbcp: 210218 18:12:50  72% done; 87.1 MB/s, avg 87.1 MB/s
+File /home/netadm/USC//1G35.dat created; 1000000000 bytes at 87.1 MB/s
+bbcp: Creating /home/netadm/USC//1G34.dat
+bbcp: 210218 18:13:01  71% done; 85.2 MB/s, avg 85.2 MB/s
+File /home/netadm/USC//1G34.dat created; 1000000000 bytes at 84.8 MB/s
+bbcp: Creating /home/netadm/USC//1G33.dat
+bbcp: 210218 18:13:12  65% done; 81.2 MB/s, avg 81.2 MB/s
+File /home/netadm/USC//1G33.dat created; 1000000000 bytes at 80.6 MB/s
+bbcp: Creating /home/netadm/USC//1G32.dat
+bbcp: 210218 18:13:24  69% done; 83.7 MB/s, avg 83.7 MB/s
+File /home/netadm/USC//1G32.dat created; 1000000000 bytes at 84.0 MB/s
+bbcp: Creating /home/netadm/USC//1G31.dat
+bbcp: 210218 18:13:35  66% done; 84.6 MB/s, avg 84.6 MB/s
+File /home/netadm/USC//1G31.dat created; 1000000000 bytes at 85.8 MB/s
+bbcp: Creating /home/netadm/USC//1G30.dat
+bbcp: 210218 18:13:46  67% done; 86.5 MB/s, avg 86.5 MB/s
+File /home/netadm/USC//1G30.dat created; 1000000000 bytes at 86.3 MB/s
+bbcp: Creating /home/netadm/USC//1G29.dat
+bbcp: 210218 18:13:57  65% done; 85.4 MB/s, avg 85.4 MB/s
+File /home/netadm/USC//1G29.dat created; 1000000000 bytes at 85.4 MB/s
+bbcp: Creating /home/netadm/USC//1G28.dat
+bbcp: 210218 18:14:08  61% done; 82.3 MB/s, avg 82.3 MB/s
+File /home/netadm/USC//1G28.dat created; 1000000000 bytes at 81.9 MB/s
+bbcp: Creating /home/netadm/USC//1G27.dat
+bbcp: 210218 18:14:20  63% done; 81.0 MB/s, avg 81.0 MB/s
+File /home/netadm/USC//1G27.dat created; 1000000000 bytes at 81.6 MB/s
+bbcp: Creating /home/netadm/USC//1G26.dat
+bbcp: 210218 18:14:32  68% done; 83.7 MB/s, avg 83.7 MB/s
+File /home/netadm/USC//1G26.dat created; 1000000000 bytes at 84.2 MB/s
+bbcp: Creating /home/netadm/USC//1G25.dat
+bbcp: 210218 18:14:43  66% done; 84.9 MB/s, avg 84.9 MB/s
+File /home/netadm/USC//1G25.dat created; 1000000000 bytes at 84.6 MB/s
+bbcp: Creating /home/netadm/USC//1G24.dat
+bbcp: 210218 18:14:54  62% done; 82.6 MB/s, avg 82.6 MB/s
+File /home/netadm/USC//1G24.dat created; 1000000000 bytes at 83.2 MB/s
+bbcp: Creating /home/netadm/USC//1G23.dat
+bbcp: 210218 18:15:06  65% done; 80.0 MB/s, avg 80.0 MB/s
+File /home/netadm/USC//1G23.dat created; 1000000000 bytes at 78.1 MB/s
+bbcp: Creating /home/netadm/USC//1G22.dat
+bbcp: 210218 18:15:18  60% done; 76.9 MB/s, avg 76.9 MB/s
+File /home/netadm/USC//1G22.dat created; 1000000000 bytes at 77.7 MB/s
+bbcp: Creating /home/netadm/USC//1G21.dat
+bbcp: 210218 18:15:30  60% done; 78.6 MB/s, avg 78.6 MB/s
+File /home/netadm/USC//1G21.dat created; 1000000000 bytes at 79.8 MB/s
+bbcp: Creating /home/netadm/USC//1G20.dat
+bbcp: 210218 18:15:42  64% done; 83.9 MB/s, avg 83.9 MB/s
+File /home/netadm/USC//1G20.dat created; 1000000000 bytes at 84.2 MB/s
+bbcp: Creating /home/netadm/USC//1G19.dat
+bbcp: 210218 18:15:54  69% done; 83.2 MB/s, avg 83.2 MB/s
+File /home/netadm/USC//1G19.dat created; 1000000000 bytes at 83.7 MB/s
+bbcp: Creating /home/netadm/USC//1G18.dat
+bbcp: 210218 18:16:05  64% done; 81.1 MB/s, avg 81.1 MB/s
+File /home/netadm/USC//1G18.dat created; 1000000000 bytes at 80.4 MB/s
+bbcp: Creating /home/netadm/USC//1G17.dat
+bbcp: 210218 18:16:17  66% done; 81.6 MB/s, avg 81.6 MB/s
+File /home/netadm/USC//1G17.dat created; 1000000000 bytes at 80.6 MB/s
+bbcp: Creating /home/netadm/USC//1G16.dat
+bbcp: 210218 18:16:29  68% done; 82.1 MB/s, avg 82.1 MB/s
+File /home/netadm/USC//1G16.dat created; 1000000000 bytes at 82.7 MB/s
+bbcp: Creating /home/netadm/USC//1G15.dat
+bbcp: 210218 18:16:40  64% done; 83.9 MB/s, avg 83.9 MB/s
+File /home/netadm/USC//1G15.dat created; 1000000000 bytes at 84.5 MB/s
+bbcp: Creating /home/netadm/USC//1G14.dat
+bbcp: 210218 18:16:51  60% done; 82.0 MB/s, avg 82.0 MB/s
+File /home/netadm/USC//1G14.dat created; 1000000000 bytes at 82.8 MB/s
+bbcp: Creating /home/netadm/USC//1G13.dat
+bbcp: 210218 18:17:03  65% done; 82.4 MB/s, avg 82.4 MB/s
+File /home/netadm/USC//1G13.dat created; 1000000000 bytes at 81.5 MB/s
+bbcp: Creating /home/netadm/USC//1G12.dat
+bbcp: 210218 18:17:15  64% done; 77.6 MB/s, avg 77.6 MB/s
+File /home/netadm/USC//1G12.dat created; 1000000000 bytes at 78.0 MB/s
+bbcp: Creating /home/netadm/USC//1G11.dat
+bbcp: 210218 18:17:27  63% done; 79.5 MB/s, avg 79.5 MB/s
+File /home/netadm/USC//1G11.dat created; 1000000000 bytes at 79.0 MB/s
+bbcp: Creating /home/netadm/USC//1G10.dat
+bbcp: 210218 18:17:39  63% done; 79.7 MB/s, avg 79.7 MB/s
+File /home/netadm/USC//1G10.dat created; 1000000000 bytes at 80.2 MB/s
+bbcp: Creating /home/netadm/USC//1G9.dat
+bbcp: 210218 18:17:51  64% done; 80.2 MB/s, avg 80.2 MB/s
+File /home/netadm/USC//1G9.dat created; 1000000000 bytes at 80.6 MB/s
+bbcp: Creating /home/netadm/USC//1G8.dat
+bbcp: 210218 18:18:03  63% done; 77.3 MB/s, avg 77.3 MB/s
+File /home/netadm/USC//1G8.dat created; 1000000000 bytes at 77.7 MB/s
+bbcp: Creating /home/netadm/USC//1G7.dat
+bbcp: 210218 18:18:15  60% done; 76.6 MB/s, avg 76.6 MB/s
+File /home/netadm/USC//1G7.dat created; 1000000000 bytes at 76.5 MB/s
+bbcp: Creating /home/netadm/USC//1G6.dat
+bbcp: 210218 18:18:27  59% done; 79.3 MB/s, avg 79.3 MB/s
+File /home/netadm/USC//1G6.dat created; 1000000000 bytes at 78.6 MB/s
+bbcp: Creating /home/netadm/USC//1G5.dat
+bbcp: 210218 18:18:40  66% done; 79.3 MB/s, avg 79.3 MB/s
+File /home/netadm/USC//1G5.dat created; 1000000000 bytes at 80.1 MB/s
+bbcp: Creating /home/netadm/USC//1G4.dat
+bbcp: 210218 18:18:52  58% done; 78.6 MB/s, avg 78.6 MB/s
+File /home/netadm/USC//1G4.dat created; 1000000000 bytes at 79.4 MB/s
+bbcp: Creating /home/netadm/USC//1G3.dat
+bbcp: 210218 18:19:03  58% done; 78.9 MB/s, avg 78.9 MB/s
+File /home/netadm/USC//1G3.dat created; 1000000000 bytes at 78.2 MB/s
+bbcp: Creating /home/netadm/USC//1G2.dat
+bbcp: 210218 18:19:16  64% done; 78.0 MB/s, avg 78.0 MB/s
+File /home/netadm/USC//1G2.dat created; 1000000000 bytes at 78.0 MB/s
+bbcp: Creating /home/netadm/USC//1G1.dat
+bbcp: 210218 18:19:28  63% done; 79.5 MB/s, avg 79.5 MB/s
+File /home/netadm/USC//1G1.dat created; 1000000000 bytes at 79.4 MB/s
+100 files copied at effectively 86.1 MB/s
