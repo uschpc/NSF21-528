@@ -14,7 +14,7 @@ def printping():
   for i in INST:
     for ii in INST:
       inp_lst = []
-      print('ping from ' + i + ' to ' + ii + ':')
+      print('ping from ' + i + ' to ' + ii + ': ', end ='  ')
       filepath = PATH + i + '/ping_to_' + ii + '.txt'
       try:
         ping = open(filepath, 'r')
@@ -27,12 +27,33 @@ def printping():
           if pingtime:
             inp_lst.append(float(pingtime.group(1)))
         print(str(average(inp_lst)) + ' ms average')
-        print('')
+      else:
+        print('Not available.')
+
+def printiperf():
+  p = re.compile("(Stream.).*SUM.* (.* .bits/sec).*sender$")
+
+  for i in INST:
+    for ii in INST:
+      inp_lst = []
+      print('iperf3 from ' + i + ' to ' + ii + ': ')
+      filepath = PATH + i + '/iperf3_to_' + ii + '.txt'
+      try:
+        iperf = open(filepath, 'r')
+      except:
+        iperf = None
+      if iperf:
+        iperfraw = iperf.readlines()
+        for line in iperfraw:
+          iperfstrm = p.search(line)
+          if iperfstrm:
+            print('  '+ iperfstrm.group(1) + ': ' +iperfstrm.group(2))
       else:
         print('Not available.')
 
 def main():
   printping()
+  printiperf()
 
 if __name__ == '__main__':
   main()
