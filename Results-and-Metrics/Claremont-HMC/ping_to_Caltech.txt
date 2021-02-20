@@ -1,0 +1,5 @@
+PING 192.31.43.1 (192.31.43.1) 56(84) bytes of data.
+64 bytes from 192.31.43.1: icmp_seq=1 ttl=60 time=3.47 ms
+64 bytes from 192.31.43.1: icmp_seq=2 ttl=60 time=3.76 ms
+64 bytes from 192.31.43.1: icmp_seq=3 ttl=60 time=3.65 ms
+

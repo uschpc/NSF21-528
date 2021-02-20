@@ -1,0 +1,5 @@
+PING 134.173.65.144 (134.173.65.144) 56(84) bytes of data.
+64 bytes from 134.173.65.144: icmp_seq=1 ttl=61 time=0.600 ms
+64 bytes from 134.173.65.144: icmp_seq=2 ttl=61 time=0.729 ms
+64 bytes from 134.173.65.144: icmp_seq=3 ttl=61 time=0.615 ms
+
