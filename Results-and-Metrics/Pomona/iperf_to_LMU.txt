@@ -1,0 +1,49 @@
+Running iperf3 from localhost to 157.242.103.137
+----------------------------------------
+Command line: iperf3 -i 10 -t 20 -Z -P 2 -c 157.242.103.137 -T Stream1 -p 5101
+----------------------------------------
+Command line: iperf3 -i 10 -t 20 -Z -P 2 -c 157.242.103.137 -T Stream2 -p 5102
+----------------------------------------
+
+nsf21528@POM-ITB-DGX01:~/USC$ Stream2:  Connecting to host 157.242.103.137, port 5102
+Stream1:  Connecting to host 157.242.103.137, port 5101
+Stream1:  [  5] local 134.173.65.144 port 38246 connected to 157.242.103.137 port 5101
+Stream2:  [  5] local 134.173.65.144 port 45302 connected to 157.242.103.137 port 5102
+Stream1:  [  7] local 134.173.65.144 port 38250 connected to 157.242.103.137 port 5101
+Stream2:  [  7] local 134.173.65.144 port 45306 connected to 157.242.103.137 port 5102
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream2:  [  5]   0.00-10.00  sec   635 MBytes   532 Mbits/sec  107    470 KBytes
+Stream2:  [  7]   0.00-10.00  sec   962 MBytes   807 Mbits/sec   51    616 KBytes
+Stream2:  [SUM]   0.00-10.00  sec  1.56 GBytes  1.34 Gbits/sec  158
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+Stream1:  [  5]   0.00-10.00  sec   731 MBytes   613 Mbits/sec  114    472 KBytes
+Stream1:  [  7]   0.00-10.00  sec   551 MBytes   462 Mbits/sec  144    301 KBytes
+Stream1:  [SUM]   0.00-10.00  sec  1.25 GBytes  1.07 Gbits/sec  258
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [  5]  10.00-20.00  sec  1.29 GBytes  1.11 Gbits/sec   32    811 KBytes
+Stream2:  [  7]  10.00-20.00  sec  1.35 GBytes  1.16 Gbits/sec    9   1.00 MBytes
+Stream2:  [SUM]  10.00-20.00  sec  2.65 GBytes  2.27 Gbits/sec   41
+Stream2:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream2:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream2:  [  5]   0.00-20.00  sec  1.91 GBytes   822 Mbits/sec  139             sender
+Stream2:  [  5]   0.00-20.00  sec  1.91 GBytes   821 Mbits/sec                  receiver
+Stream2:  [  7]   0.00-20.00  sec  2.29 GBytes   984 Mbits/sec   60             sender
+Stream2:  [  7]   0.00-20.00  sec  2.29 GBytes   984 Mbits/sec                  receiver
+Stream2:  [SUM]   0.00-20.00  sec  4.21 GBytes  1.81 Gbits/sec  199             sender
+Stream2:  [SUM]   0.00-20.00  sec  4.20 GBytes  1.80 Gbits/sec                  receiver
+Stream2:
+Stream2:  iperf Done.
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [  5]  10.00-20.00  sec  1.04 GBytes   895 Mbits/sec    8    879 KBytes
+Stream1:  [  7]  10.00-20.00  sec   874 MBytes   733 Mbits/sec   36    689 KBytes
+Stream1:  [SUM]  10.00-20.00  sec  1.89 GBytes  1.63 Gbits/sec   44
+Stream1:  - - - - - - - - - - - - - - - - - - - - - - - - -
+Stream1:  [ ID] Interval           Transfer     Bitrate         Retr
+Stream1:  [  5]   0.00-20.00  sec  1.76 GBytes   754 Mbits/sec  122             sender
+Stream1:  [  5]   0.00-20.00  sec  1.75 GBytes   753 Mbits/sec                  receiver
+Stream1:  [  7]   0.00-20.00  sec  1.39 GBytes   597 Mbits/sec  180             sender
+Stream1:  [  7]   0.00-20.00  sec  1.39 GBytes   597 Mbits/sec                  receiver
+Stream1:  [SUM]   0.00-20.00  sec  3.15 GBytes  1.35 Gbits/sec  302             sender
+Stream1:  [SUM]   0.00-20.00  sec  3.14 GBytes  1.35 Gbits/sec                  receiver
+Stream1:
+Stream1:  iperf Done.
