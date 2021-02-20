@@ -1,6 +1,0 @@
-ping 157.242.103.137
-PING 157.242.103.137 (157.242.103.137) 56(84) bytes of data.
-^C
---- 157.242.103.137 ping statistics ---
-50 packets transmitted, 0 received, 100% packet loss, time 221ms
-
