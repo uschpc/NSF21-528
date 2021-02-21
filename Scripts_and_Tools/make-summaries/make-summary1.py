@@ -35,7 +35,6 @@ def printiperf():
 
   for i in INST:
     for ii in INST:
-      inp_lst = []
       print('iperf3 from ' + i + ' to ' + ii + ': ')
       filepath = PATH + i + '/iperf3_to_' + ii + '.txt'
       try:
@@ -51,9 +50,30 @@ def printiperf():
       else:
         print('Not available.')
 
+def printbbcp():
+  p = re.compile("^.*copied at effectively.*$")
+
+  for i in INST:
+    for ii in INST:
+      print('bbcp from ' + i + ' to ' + ii + ': ')
+      filepath = PATH + i + '/bbcp_to_' + ii + '.txt'
+      try:
+        bbcp = open(filepath, 'r')
+      except:
+        bbcp = None
+      if bbcp:
+        bbcpraw = bbcp.readlines()
+        for line in bbcpraw:
+          bbcpline = p.search(line)
+          if bbcpline:
+            print('  '+ bbcpline.group())
+      else:
+        print('Not available.')
+
 def main():
-  printping()
-  printiperf()
+  #printping()
+  #printiperf()
+  printbbcp()
 
 if __name__ == '__main__':
   main()

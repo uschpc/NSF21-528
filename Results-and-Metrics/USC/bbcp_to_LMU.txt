@@ -1,0 +1,244 @@
+Running bbcp copying /home/nsf21528/100G.dat to 157.242.103.137:/home/nsf21528/USC
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/100G.dat 157.242.103.137:/home/nsf21528/USC
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files and 0 links in 0 directories.
+bbcp: Creating /home/nsf21528/USC/100G.dat
+bbcp: 210220 16:08:41  3% done; 493.0 MB/s, avg 493.0 MB/s
+bbcp: 210220 16:08:48  7% done; 451.9 MB/s, avg 473.0 MB/s
+bbcp: 210220 16:08:55  10% done; 441.2 MB/s, avg 462.6 MB/s
+bbcp: 210220 16:09:02  13% done; 449.1 MB/s, avg 459.3 MB/s
+bbcp: 210220 16:09:09  16% done; 438.5 MB/s, avg 455.2 MB/s
+bbcp: 210220 16:09:16  20% done; 494.2 MB/s, avg 461.6 MB/s
+bbcp: 210220 16:09:23  23% done; 468.3 MB/s, avg 462.6 MB/s
+bbcp: 210220 16:09:30  27% done; 487.2 MB/s, avg 465.6 MB/s
+bbcp: 210220 16:09:38  31% done; 477.1 MB/s, avg 466.9 MB/s
+bbcp: 210220 16:09:45  35% done; 475.9 MB/s, avg 467.9 MB/s
+bbcp: 210220 16:09:52  38% done; 409.3 MB/s, avg 462.7 MB/s
+bbcp: 210220 16:09:59  41% done; 412.8 MB/s, avg 458.6 MB/s
+bbcp: 210220 16:10:06  44% done; 438.4 MB/s, avg 457.1 MB/s
+bbcp: 210220 16:10:13  47% done; 485.3 MB/s, avg 459.1 MB/s
+bbcp: 210220 16:10:20  51% done; 479.9 MB/s, avg 460.4 MB/s
+bbcp: 210220 16:10:27  54% done; 475.6 MB/s, avg 461.4 MB/s
+bbcp: 210220 16:10:34  58% done; 495.2 MB/s, avg 463.3 MB/s
+bbcp: 210220 16:10:42  61% done; 472.2 MB/s, avg 463.8 MB/s
+bbcp: 210220 16:10:49  65% done; 438.6 MB/s, avg 462.3 MB/s
+bbcp: 210220 16:10:56  69% done; 466.9 MB/s, avg 462.5 MB/s
+bbcp: 210220 16:11:03  72% done; 463.8 MB/s, avg 462.6 MB/s
+bbcp: 210220 16:11:11  76% done; 484.0 MB/s, avg 463.6 MB/s
+bbcp: 210220 16:11:18  80% done; 487.2 MB/s, avg 464.7 MB/s
+bbcp: 210220 16:11:25  83% done; 421.4 MB/s, avg 462.9 MB/s
+bbcp: 210220 16:11:32  86% done; 390.7 MB/s, avg 460.1 MB/s
+bbcp: 210220 16:11:39  88% done; 386.6 MB/s, avg 457.3 MB/s
+bbcp: 210220 16:11:47  91% done; 410.6 MB/s, avg 455.6 MB/s
+bbcp: 210220 16:11:55  95% done; 384.0 MB/s, avg 452.8 MB/s
+bbcp: 210220 16:12:02  98% done; 406.8 MB/s, avg 451.0 MB/s
+File /home/nsf21528/USC/100G.dat created; 100000000000 bytes at 450.5 MB/s
+1 file copied at effectively 447.3 MB/s
+----------------------------------------
+Running bbcp copying /home/nsf21528/nsf21-528-100g to 157.242.103.137:/home/nsf21528/USC
+----------------------------------------
+Command line: bbcp -v -f -P 8 -r -s 4 -F /home/nsf21528/nsf21-528-100g 157.242.103.137:/home/nsf21528/USC
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files and 0 links in 1 directory.
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G1.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 405.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G2.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 528.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G3.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G3.dat created; 1000000000 bytes at 523.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G4.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G4.dat created; 1000000000 bytes at 530.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G5.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G5.dat created; 1000000000 bytes at 506.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G6.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G6.dat created; 1000000000 bytes at 448.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G7.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G7.dat created; 1000000000 bytes at 363.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G8.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G8.dat created; 1000000000 bytes at 404.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G9.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G9.dat created; 1000000000 bytes at 475.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G10.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G10.dat created; 1000000000 bytes at 464.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G11.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G11.dat created; 1000000000 bytes at 521.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G12.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G12.dat created; 1000000000 bytes at 436.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G13.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G13.dat created; 1000000000 bytes at 454.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G14.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G14.dat created; 1000000000 bytes at 501.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G15.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G15.dat created; 1000000000 bytes at 519.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G16.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G16.dat created; 1000000000 bytes at 510.6 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G17.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G17.dat created; 1000000000 bytes at 455.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G18.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G18.dat created; 1000000000 bytes at 510.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G19.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G19.dat created; 1000000000 bytes at 478.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G20.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G20.dat created; 1000000000 bytes at 457.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G21.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G21.dat created; 1000000000 bytes at 498.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G22.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G22.dat created; 1000000000 bytes at 504.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G23.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G23.dat created; 1000000000 bytes at 523.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G24.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G24.dat created; 1000000000 bytes at 463.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G25.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G25.dat created; 1000000000 bytes at 503.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G26.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G26.dat created; 1000000000 bytes at 510.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G27.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G27.dat created; 1000000000 bytes at 464.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G28.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G28.dat created; 1000000000 bytes at 505.6 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G29.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G29.dat created; 1000000000 bytes at 456.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G30.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G30.dat created; 1000000000 bytes at 500.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G31.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G31.dat created; 1000000000 bytes at 454.6 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G32.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G32.dat created; 1000000000 bytes at 443.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G33.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G33.dat created; 1000000000 bytes at 403.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G34.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G34.dat created; 1000000000 bytes at 496.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G35.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G35.dat created; 1000000000 bytes at 497.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G36.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G36.dat created; 1000000000 bytes at 478.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G37.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G37.dat created; 1000000000 bytes at 429.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G38.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G38.dat created; 1000000000 bytes at 479.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G39.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G39.dat created; 1000000000 bytes at 483.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G40.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G40.dat created; 1000000000 bytes at 501.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G41.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G41.dat created; 1000000000 bytes at 454.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G42.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G42.dat created; 1000000000 bytes at 463.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G43.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G43.dat created; 1000000000 bytes at 408.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G44.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G44.dat created; 1000000000 bytes at 486.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G45.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G45.dat created; 1000000000 bytes at 450.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G46.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G46.dat created; 1000000000 bytes at 495.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G47.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G47.dat created; 1000000000 bytes at 484.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G48.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G48.dat created; 1000000000 bytes at 401.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G49.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G49.dat created; 1000000000 bytes at 447.6 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G50.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G50.dat created; 1000000000 bytes at 461.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G51.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G51.dat created; 1000000000 bytes at 485.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G52.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G52.dat created; 1000000000 bytes at 491.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G53.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G53.dat created; 1000000000 bytes at 505.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G54.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G54.dat created; 1000000000 bytes at 493.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G55.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G55.dat created; 1000000000 bytes at 486.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G56.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G56.dat created; 1000000000 bytes at 408.6 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G57.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G57.dat created; 1000000000 bytes at 507.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G58.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G58.dat created; 1000000000 bytes at 496.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G59.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G59.dat created; 1000000000 bytes at 496.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G60.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G60.dat created; 1000000000 bytes at 462.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G61.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G61.dat created; 1000000000 bytes at 488.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G62.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G62.dat created; 1000000000 bytes at 486.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G63.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G63.dat created; 1000000000 bytes at 493.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G64.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G64.dat created; 1000000000 bytes at 403.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G65.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G65.dat created; 1000000000 bytes at 481.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G66.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G66.dat created; 1000000000 bytes at 443.9 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G67.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G67.dat created; 1000000000 bytes at 446.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G68.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G68.dat created; 1000000000 bytes at 445.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G69.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G69.dat created; 1000000000 bytes at 466.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G70.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G70.dat created; 1000000000 bytes at 478.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G71.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G71.dat created; 1000000000 bytes at 492.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G72.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G72.dat created; 1000000000 bytes at 451.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G73.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G73.dat created; 1000000000 bytes at 462.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G74.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G74.dat created; 1000000000 bytes at 453.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G75.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G75.dat created; 1000000000 bytes at 483.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G76.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G76.dat created; 1000000000 bytes at 468.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G77.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G77.dat created; 1000000000 bytes at 350.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G78.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G78.dat created; 1000000000 bytes at 394.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G79.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G79.dat created; 1000000000 bytes at 417.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G80.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G80.dat created; 1000000000 bytes at 402.5 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G81.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G81.dat created; 1000000000 bytes at 385.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G82.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G82.dat created; 1000000000 bytes at 374.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G83.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G83.dat created; 1000000000 bytes at 467.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G84.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G84.dat created; 1000000000 bytes at 372.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G85.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G85.dat created; 1000000000 bytes at 426.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G86.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G86.dat created; 1000000000 bytes at 472.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G87.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G87.dat created; 1000000000 bytes at 457.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G88.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G88.dat created; 1000000000 bytes at 427.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G89.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G89.dat created; 1000000000 bytes at 395.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G90.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G90.dat created; 1000000000 bytes at 447.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G91.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G91.dat created; 1000000000 bytes at 465.3 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G92.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G92.dat created; 1000000000 bytes at 473.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G93.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G93.dat created; 1000000000 bytes at 442.2 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G94.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G94.dat created; 1000000000 bytes at 462.7 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G95.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G95.dat created; 1000000000 bytes at 452.1 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G96.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G96.dat created; 1000000000 bytes at 405.4 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G97.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G97.dat created; 1000000000 bytes at 473.8 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G98.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G98.dat created; 1000000000 bytes at 465.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G99.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 470.0 MB/s
+bbcp: Creating /home/nsf21528/USC/nsf21-528-100g/1G100.dat
+File /home/nsf21528/USC/nsf21-528-100g/1G100.dat created; 1000000000 bytes at 375.5 MB/s
+100 files copied at effectively 452.8 MB/s
