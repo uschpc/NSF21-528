@@ -27,6 +27,7 @@ def printping():
           if pingtime:
             inp_lst.append(float(pingtime.group(1)))
         print(str(average(inp_lst)) + ' ms average')
+        ping.close()
       else:
         print('Not available.')
 
@@ -35,7 +36,7 @@ def printiperf():
 
   for i in INST:
     for ii in INST:
-      print('iperf3 from ' + i + ' to ' + ii + ': ')
+      print('iperf3 from ' + i + ' to ' + ii + ': ', end = ' ')
       filepath = PATH + i + '/iperf3_to_' + ii + '.txt'
       try:
         iperf = open(filepath, 'r')
@@ -46,16 +47,19 @@ def printiperf():
         for line in iperfraw:
           iperfstrm = p.search(line)
           if iperfstrm:
-            print('  '+ iperfstrm.group(1) + ': ' +iperfstrm.group(2))
+            print('  ' + iperfstrm.group(1) + ': ' +iperfstrm.group(2) + '  ', end = '')
+        print('')
+        iperf.close()
       else:
         print('Not available.')
 
 def printbbcp():
   p = re.compile("^.*copied at effectively.*$")
+  r = re.compile("effectively ")
 
   for i in INST:
     for ii in INST:
-      print('bbcp from ' + i + ' to ' + ii + ': ')
+      print('bbcp from ' + i + ' to ' + ii + ': ', end =' ')
       filepath = PATH + i + '/bbcp_to_' + ii + '.txt'
       try:
         bbcp = open(filepath, 'r')
@@ -66,7 +70,10 @@ def printbbcp():
         for line in bbcpraw:
           bbcpline = p.search(line)
           if bbcpline:
-            print('  '+ bbcpline.group())
+            bbcplinex = r.sub('', bbcpline.group())
+            print('  ' + bbcplinex + '  ', end ='')
+        print('')
+        bbcp.close()
       else:
         print('Not available.')
 
@@ -76,7 +83,7 @@ def printtrace():
 
   for i in INST:
     for ii in INST:
-      print('traceroute from ' + i + ' to ' + ii + ': ')
+      print('traceroute from ' + i + ' to ' + ii + ': ', end ='  ')
       filepath = PATH + i + '/traceroute_to_' + ii + '.txt'
       try:
         trace = open(filepath, 'r')
@@ -87,23 +94,21 @@ def printtrace():
         lastline = traceraw[-1:]
         blockline = p.search(lastline[0])
         if blockline:
-          print('  Blocked or unreachable.' + ' (' + blockline.group() + ')')
+          print('Blocked or unreachable.' + ' (' + blockline.group() + ')')
         else:
           rl = r.search(lastline[0])
           if rl:
             print('  Hops: ' + rl.group(1))
             #print(lastline[0])
-        print('')
         trace.close()
       else:
-        print('  Not available.')
-        print('')
+        print('Not available.')
 
 def main():
-  #printping()
+  printping()
   printtrace()
-  #printiperf()
-  #printbbcp()
+  printiperf()
+  printbbcp()
 
 if __name__ == '__main__':
   main()
