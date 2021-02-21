@@ -70,10 +70,40 @@ def printbbcp():
       else:
         print('Not available.')
 
+def printtrace():
+  p = re.compile("\*\s*\*\s*\*|HANGS|!X")
+  r = re.compile("^\s*([0-9]*)")
+
+  for i in INST:
+    for ii in INST:
+      print('traceroute from ' + i + ' to ' + ii + ': ')
+      filepath = PATH + i + '/traceroute_to_' + ii + '.txt'
+      try:
+        trace = open(filepath, 'r')
+      except:
+        trace = None
+      if trace:
+        traceraw = trace.readlines()
+        lastline = traceraw[-1:]
+        blockline = p.search(lastline[0])
+        if blockline:
+          print('  Blocked or unreachable.' + ' (' + blockline.group() + ')')
+        else:
+          rl = r.search(lastline[0])
+          if rl:
+            print('  Hops: ' + rl.group(1))
+            #print(lastline[0])
+        print('')
+        trace.close()
+      else:
+        print('  Not available.')
+        print('')
+
 def main():
   #printping()
+  printtrace()
   #printiperf()
-  printbbcp()
+  #printbbcp()
 
 if __name__ == '__main__':
   main()

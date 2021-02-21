@@ -7,4 +7,3 @@ traceroute to 192.31.43.1 (192.31.43.1), 30 hops max, 60 byte packets
  5  137.164.27.62 (137.164.27.62)  1.341 ms  1.331 ms  1.240 ms
  6  hpr-caltech-1--lax-agg10.cenic.net (137.164.27.170)  2.500 ms  2.353 ms hpr-caltech-2--lax-agg10.cenic.net (137.164.27.171)  2.517 ms
  7  flowtest.caltech.edu (192.31.43.1)  2.095 ms  2.080 ms  2.281 ms
- 
