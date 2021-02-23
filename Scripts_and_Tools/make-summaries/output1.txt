@@ -117,7 +117,7 @@ iperf3 from KGI to LMU:  Not available.
 iperf3 from KGI to Oxy:  Not available.
 iperf3 from KGI to Pomona:  Not available.
 iperf3 from KGI to USC:    Stream1: 2.96 Gbits/sec    Stream2: 2.95 Gbits/sec  
-iperf3 from LMU to Caltech:  Not available.
+iperf3 from LMU to Caltech:    Stream1: 1.03 Gbits/sec    Stream2: 1.07 Gbits/sec  
 iperf3 from LMU to Claremont-HMC:  Not available.
 iperf3 from LMU to KGI:  Not available.
 iperf3 from LMU to LMU:  Not available.
@@ -166,7 +166,7 @@ bbcp from KGI to LMU:  Not available.
 bbcp from KGI to Oxy:  Not available.
 bbcp from KGI to Pomona:  Not available.
 bbcp from KGI to USC:  Not available.
-bbcp from LMU to Caltech:  Not available.
+bbcp from LMU to Caltech:    1 file copied at 102.1 MB/s    100 files copied at 86.4 MB/s  
 bbcp from LMU to Claremont-HMC:  Not available.
 bbcp from LMU to KGI:  Not available.
 bbcp from LMU to LMU:  Not available.
