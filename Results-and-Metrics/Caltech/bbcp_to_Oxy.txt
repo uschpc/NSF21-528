@@ -1,0 +1,537 @@
+Running bbcp 100g transfer
+
+bbcp: Indexing files to be copied...
+bbcp: Copying 0 files and 0 links in 0 directories.
+bbcp: Warning: flowtest.caltech.edu is running a newer version of bbcp
+bbcp: Creating /home/nsf21528/data/100G.dat
+bbcp: 210223 11:25:51  0% done; 103.7 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:25:58  1% done; 100.5 MB/s, avg 102.1 MB/s
+bbcp: 210223 11:26:05  2% done; 97.2 MB/s, avg 100.5 MB/s
+bbcp: 210223 11:26:12  2% done; 89.7 MB/s, avg 97.8 MB/s
+bbcp: 210223 11:26:19  3% done; 110.2 MB/s, avg 100.3 MB/s
+bbcp: 210223 11:26:26  4% done; 110.3 MB/s, avg 101.9 MB/s
+bbcp: 210223 11:26:33  5% done; 107.7 MB/s, avg 102.7 MB/s
+bbcp: 210223 11:26:40  6% done; 107.5 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:26:47  6% done; 108.0 MB/s, avg 103.9 MB/s
+bbcp: 210223 11:26:54  7% done; 98.2 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:27:01  8% done; 102.2 MB/s, avg 103.2 MB/s
+bbcp: 210223 11:27:08  9% done; 97.7 MB/s, avg 102.7 MB/s
+bbcp: 210223 11:27:15  9% done; 111.9 MB/s, avg 103.4 MB/s
+bbcp: 210223 11:27:22  10% done; 94.7 MB/s, avg 102.8 MB/s
+bbcp: 210223 11:27:29  11% done; 110.4 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:27:36  12% done; 98.7 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:27:43  12% done; 105.1 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:27:50  13% done; 110.1 MB/s, avg 103.5 MB/s
+bbcp: 210223 11:27:57  14% done; 110.9 MB/s, avg 103.9 MB/s
+bbcp: 210223 11:28:04  15% done; 97.4 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:28:11  16% done; 110.4 MB/s, avg 103.9 MB/s
+bbcp: 210223 11:28:18  16% done; 109.7 MB/s, avg 104.2 MB/s
+bbcp: 210223 11:28:25  17% done; 104.5 MB/s, avg 104.2 MB/s
+bbcp: 210223 11:28:32  18% done; 110.7 MB/s, avg 104.5 MB/s
+bbcp: 210223 11:28:39  19% done; 110.8 MB/s, avg 104.7 MB/s
+bbcp: 210223 11:28:46  20% done; 108.2 MB/s, avg 104.9 MB/s
+bbcp: 210223 11:28:53  20% done; 92.5 MB/s, avg 104.4 MB/s
+bbcp: 210223 11:29:00  21% done; 95.7 MB/s, avg 104.1 MB/s
+bbcp: 210223 11:29:07  22% done; 88.8 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:29:14  22% done; 107.3 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:29:21  23% done; 106.6 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:29:28  24% done; 110.3 MB/s, avg 104.0 MB/s
+bbcp: 210223 11:29:35  25% done; 110.5 MB/s, avg 104.2 MB/s
+bbcp: 210223 11:29:42  26% done; 110.8 MB/s, avg 104.4 MB/s
+bbcp: 210223 11:29:49  26% done; 104.7 MB/s, avg 104.4 MB/s
+bbcp: 210223 11:29:56  27% done; 107.2 MB/s, avg 104.5 MB/s
+bbcp: 210223 11:30:03  28% done; 71.8 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:30:10  28% done; 93.2 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:30:17  29% done; 105.7 MB/s, avg 103.4 MB/s
+bbcp: 210223 11:30:24  30% done; 93.3 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:30:31  31% done; 110.7 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:30:38  31% done; 110.3 MB/s, avg 103.5 MB/s
+bbcp: 210223 11:30:45  32% done; 110.3 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:30:52  33% done; 105.4 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:30:59  34% done; 110.8 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:31:06  35% done; 99.9 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:31:13  35% done; 107.9 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:31:20  36% done; 100.4 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:31:27  37% done; 99.9 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:31:34  38% done; 106.8 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:31:41  38% done; 104.6 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:31:48  39% done; 108.3 MB/s, avg 103.9 MB/s
+bbcp: 210223 11:31:55  40% done; 101.5 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:32:02  41% done; 98.9 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:32:09  41% done; 107.0 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:32:16  42% done; 107.0 MB/s, avg 103.8 MB/s
+bbcp: 210223 11:32:23  43% done; 95.5 MB/s, avg 103.7 MB/s
+bbcp: 210223 11:32:30  44% done; 93.2 MB/s, avg 103.5 MB/s
+bbcp: 210223 11:32:37  44% done; 105.5 MB/s, avg 103.5 MB/s
+bbcp: 210223 11:32:44  45% done; 106.3 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:32:51  46% done; 101.9 MB/s, avg 103.6 MB/s
+bbcp: 210223 11:32:58  47% done; 86.1 MB/s, avg 103.3 MB/s
+bbcp: 210223 11:33:05  47% done; 91.8 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:33:12  48% done; 97.2 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:33:19  49% done; 100.5 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:33:26  49% done; 103.2 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:33:33  50% done; 105.9 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:33:40  51% done; 105.0 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:33:47  52% done; 106.0 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:33:54  52% done; 100.8 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:34:01  53% done; 99.4 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:34:08  54% done; 105.6 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:34:15  55% done; 106.1 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:34:22  55% done; 101.6 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:34:29  56% done; 102.2 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:34:36  57% done; 100.6 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:34:43  58% done; 105.9 MB/s, avg 103.1 MB/s
+bbcp: 210223 11:34:50  58% done; 97.9 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:34:57  59% done; 105.3 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:04  60% done; 95.9 MB/s, avg 102.9 MB/s
+bbcp: 210223 11:35:11  61% done; 106.3 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:18  62% done; 105.7 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:25  62% done; 101.7 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:32  63% done; 100.9 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:39  64% done; 105.6 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:46  65% done; 103.6 MB/s, avg 103.0 MB/s
+bbcp: 210223 11:35:53  65% done; 95.7 MB/s, avg 102.9 MB/s
+bbcp: 210223 11:36:00  66% done; 87.9 MB/s, avg 102.7 MB/s
+bbcp: 210223 11:36:07  67% done; 89.0 MB/s, avg 102.6 MB/s
+bbcp: 210223 11:36:14  67% done; 95.6 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:21  68% done; 101.6 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:28  69% done; 102.6 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:35  69% done; 101.2 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:42  70% done; 99.2 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:49  71% done; 103.5 MB/s, avg 102.5 MB/s
+bbcp: 210223 11:36:56  72% done; 96.5 MB/s, avg 102.4 MB/s
+bbcp: 210223 11:37:03  72% done; 99.2 MB/s, avg 102.4 MB/s
+bbcp: 210223 11:37:10  73% done; 102.9 MB/s, avg 102.4 MB/s
+bbcp: 210223 11:37:17  74% done; 102.8 MB/s, avg 102.4 MB/s
+bbcp: 210223 11:37:24  75% done; 101.4 MB/s, avg 102.4 MB/s
+bbcp: 210223 11:37:31  75% done; 96.9 MB/s, avg 102.3 MB/s
+bbcp: 210223 11:37:38  76% done; 102.8 MB/s, avg 102.3 MB/s
+bbcp: 210223 11:37:45  77% done; 103.1 MB/s, avg 102.3 MB/s
+bbcp: 210223 11:37:52  78% done; 93.7 MB/s, avg 102.2 MB/s
+bbcp: 210223 11:37:59  78% done; 102.7 MB/s, avg 102.2 MB/s
+bbcp: 210223 11:38:06  79% done; 94.7 MB/s, avg 102.2 MB/s
+bbcp: 210223 11:38:13  80% done; 102.8 MB/s, avg 102.2 MB/s
+bbcp: 210223 11:38:20  81% done; 102.8 MB/s, avg 102.2 MB/s
+bbcp: 210223 11:38:27  81% done; 97.2 MB/s, avg 102.1 MB/s
+bbcp: 210223 11:38:34  82% done; 102.8 MB/s, avg 102.1 MB/s
+bbcp: 210223 11:38:41  83% done; 94.9 MB/s, avg 102.1 MB/s
+bbcp: 210223 11:38:48  83% done; 95.5 MB/s, avg 102.0 MB/s
+bbcp: 210223 11:38:55  84% done; 80.1 MB/s, avg 101.8 MB/s
+bbcp: 210223 11:39:02  85% done; 93.3 MB/s, avg 101.8 MB/s
+bbcp: 210223 11:39:09  85% done; 102.8 MB/s, avg 101.8 MB/s
+bbcp: 210223 11:39:16  86% done; 98.3 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:23  87% done; 97.0 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:30  88% done; 103.1 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:37  88% done; 102.7 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:44  89% done; 102.8 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:51  90% done; 98.2 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:39:58  91% done; 102.2 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:40:05  91% done; 97.3 MB/s, avg 101.7 MB/s
+bbcp: 210223 11:40:12  92% done; 96.8 MB/s, avg 101.6 MB/s
+bbcp: 210223 11:40:19  93% done; 95.9 MB/s, avg 101.6 MB/s
+bbcp: 210223 11:40:26  93% done; 91.9 MB/s, avg 101.5 MB/s
+bbcp: 210223 11:40:33  94% done; 101.5 MB/s, avg 101.5 MB/s
+bbcp: 210223 11:40:40  95% done; 101.7 MB/s, avg 101.5 MB/s
+bbcp: 210223 11:40:47  96% done; 94.7 MB/s, avg 101.4 MB/s
+bbcp: 210223 11:40:54  96% done; 95.9 MB/s, avg 101.4 MB/s
+bbcp: 210223 11:41:01  97% done; 98.3 MB/s, avg 101.4 MB/s
+bbcp: 210223 11:41:08  98% done; 96.6 MB/s, avg 101.3 MB/s
+bbcp: 210223 11:41:15  98% done; 99.9 MB/s, avg 101.3 MB/s
+bbcp: 210223 11:41:22  99% done; 94.7 MB/s, avg 101.3 MB/s
+File /home/nsf21528/data/100G.dat created; 100000000000 bytes at 101.3 MB/s
+1 file copied at effectively 101.1 MB/s
+
+bbcp: Indexing files to be copied...
+bbcp: Copying 100 files and 0 links in 1 directory.
+bbcp: Warning: flowtest.caltech.edu is running a newer version of bbcp
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G100.dat
+bbcp: 210223 11:45:48  72% done; 93.7 MB/s, avg 93.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G100.dat created; 1000000000 bytes at 94.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G10.dat
+bbcp: 210223 11:45:58  70% done; 93.0 MB/s, avg 93.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G10.dat created; 1000000000 bytes at 91.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G11.dat
+bbcp: 210223 11:46:09  69% done; 84.4 MB/s, avg 84.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G11.dat created; 1000000000 bytes at 85.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G12.dat
+bbcp: 210223 11:46:20  73% done; 91.8 MB/s, avg 91.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G12.dat created; 1000000000 bytes at 88.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G13.dat
+bbcp: 210223 11:46:31  79% done; 96.7 MB/s, avg 96.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G13.dat created; 1000000000 bytes at 97.0 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G14.dat
+bbcp: 210223 11:46:40  68% done; 93.6 MB/s, avg 93.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G14.dat created; 1000000000 bytes at 93.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G15.dat
+bbcp: 210223 11:46:51  72% done; 87.5 MB/s, avg 87.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G15.dat created; 1000000000 bytes at 84.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G16.dat
+bbcp: 210223 11:47:02  67% done; 85.9 MB/s, avg 85.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G16.dat created; 1000000000 bytes at 87.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G17.dat
+bbcp: 210223 11:47:13  78% done; 98.6 MB/s, avg 98.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G17.dat created; 1000000000 bytes at 98.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G18.dat
+bbcp: 210223 11:47:23  68% done; 82.7 MB/s, avg 82.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G18.dat created; 1000000000 bytes at 83.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G19.dat
+bbcp: 210223 11:47:34  74% done; 95.1 MB/s, avg 95.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G19.dat created; 1000000000 bytes at 95.8 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G1.dat
+bbcp: 210223 11:47:44  74% done; 94.2 MB/s, avg 94.2 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G1.dat created; 1000000000 bytes at 94.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G20.dat
+bbcp: 210223 11:47:54  65% done; 84.9 MB/s, avg 84.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G20.dat created; 1000000000 bytes at 86.2 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G21.dat
+bbcp: 210223 11:48:05  66% done; 86.5 MB/s, avg 86.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G21.dat created; 1000000000 bytes at 88.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G22.dat
+bbcp: 210223 11:48:16  71% done; 90.6 MB/s, avg 90.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G22.dat created; 1000000000 bytes at 90.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G23.dat
+bbcp: 210223 11:48:26  66% done; 90.1 MB/s, avg 90.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G23.dat created; 1000000000 bytes at 90.2 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G24.dat
+bbcp: 210223 11:48:37  74% done; 95.8 MB/s, avg 95.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G24.dat created; 1000000000 bytes at 96.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G25.dat
+bbcp: 210223 11:48:47  78% done; 99.0 MB/s, avg 99.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G25.dat created; 1000000000 bytes at 99.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G26.dat
+bbcp: 210223 11:48:57  73% done; 87.9 MB/s, avg 87.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G26.dat created; 1000000000 bytes at 88.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G27.dat
+bbcp: 210223 11:49:07  69% done; 92.7 MB/s, avg 92.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G27.dat created; 1000000000 bytes at 94.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G28.dat
+bbcp: 210223 11:49:17  64% done; 86.3 MB/s, avg 86.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G28.dat created; 1000000000 bytes at 85.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G29.dat
+bbcp: 210223 11:49:29  77% done; 92.1 MB/s, avg 92.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G29.dat created; 1000000000 bytes at 90.0 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G2.dat
+bbcp: 210223 11:49:39  69% done; 90.3 MB/s, avg 90.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G2.dat created; 1000000000 bytes at 89.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G30.dat
+bbcp: 210223 11:49:50  73% done; 91.0 MB/s, avg 91.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G30.dat created; 1000000000 bytes at 85.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G31.dat
+bbcp: 210223 11:50:01  73% done; 92.8 MB/s, avg 92.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G31.dat created; 1000000000 bytes at 91.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G32.dat
+bbcp: 210223 11:50:11  68% done; 92.5 MB/s, avg 92.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G32.dat created; 1000000000 bytes at 94.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G33.dat
+bbcp: 210223 11:50:22  80% done; 97.0 MB/s, avg 97.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G33.dat created; 1000000000 bytes at 97.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G34.dat
+bbcp: 210223 11:50:31  65% done; 87.3 MB/s, avg 87.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G34.dat created; 1000000000 bytes at 92.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G35.dat
+bbcp: 210223 11:50:42  72% done; 88.0 MB/s, avg 88.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G35.dat created; 1000000000 bytes at 88.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G36.dat
+bbcp: 210223 11:50:52  72% done; 98.7 MB/s, avg 98.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G36.dat created; 1000000000 bytes at 95.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G37.dat
+bbcp: 210223 11:51:02  60% done; 82.8 MB/s, avg 82.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G37.dat created; 1000000000 bytes at 81.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G38.dat
+bbcp: 210223 11:51:14  71% done; 94.3 MB/s, avg 94.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G38.dat created; 1000000000 bytes at 94.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G39.dat
+bbcp: 210223 11:51:24  66% done; 88.4 MB/s, avg 88.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G39.dat created; 1000000000 bytes at 87.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G3.dat
+bbcp: 210223 11:51:35  64% done; 84.7 MB/s, avg 84.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G3.dat created; 1000000000 bytes at 85.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G40.dat
+bbcp: 210223 11:51:46  73% done; 97.8 MB/s, avg 97.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G40.dat created; 1000000000 bytes at 97.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G41.dat
+bbcp: 210223 11:51:56  66% done; 86.3 MB/s, avg 86.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G41.dat created; 1000000000 bytes at 87.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G42.dat
+bbcp: 210223 11:52:07  64% done; 82.1 MB/s, avg 82.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G42.dat created; 1000000000 bytes at 82.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G43.dat
+bbcp: 210223 11:52:19  71% done; 86.5 MB/s, avg 86.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G43.dat created; 1000000000 bytes at 88.2 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G44.dat
+bbcp: 210223 11:52:29  63% done; 85.1 MB/s, avg 85.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G44.dat created; 1000000000 bytes at 87.2 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G45.dat
+bbcp: 210223 11:52:40  64% done; 87.1 MB/s, avg 87.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G45.dat created; 1000000000 bytes at 88.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G46.dat
+bbcp: 210223 11:52:51  68% done; 88.7 MB/s, avg 88.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G46.dat created; 1000000000 bytes at 85.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G47.dat
+bbcp: 210223 11:53:02  64% done; 85.4 MB/s, avg 85.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G47.dat created; 1000000000 bytes at 87.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G48.dat
+bbcp: 210223 11:53:13  66% done; 87.4 MB/s, avg 87.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G48.dat created; 1000000000 bytes at 85.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G49.dat
+bbcp: 210223 11:53:24  63% done; 84.1 MB/s, avg 84.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G49.dat created; 1000000000 bytes at 86.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G4.dat
+bbcp: 210223 11:53:35  70% done; 94.2 MB/s, avg 94.2 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G4.dat created; 1000000000 bytes at 92.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G50.dat
+bbcp: 210223 11:53:46  72% done; 88.2 MB/s, avg 88.2 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G50.dat created; 1000000000 bytes at 87.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G51.dat
+bbcp: 210223 11:53:57  77% done; 92.7 MB/s, avg 92.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G51.dat created; 1000000000 bytes at 93.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G52.dat
+bbcp: 210223 11:54:07  67% done; 83.1 MB/s, avg 83.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G52.dat created; 1000000000 bytes at 85.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G53.dat
+bbcp: 210223 11:54:18  71% done; 88.9 MB/s, avg 88.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G53.dat created; 1000000000 bytes at 89.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G54.dat
+bbcp: 210223 11:54:28  67% done; 91.5 MB/s, avg 91.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G54.dat created; 1000000000 bytes at 91.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G55.dat
+bbcp: 210223 11:54:39  73% done; 92.1 MB/s, avg 92.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G55.dat created; 1000000000 bytes at 92.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G56.dat
+bbcp: 210223 11:54:49  68% done; 89.7 MB/s, avg 89.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G56.dat created; 1000000000 bytes at 90.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G57.dat
+bbcp: 210223 11:55:00  74% done; 91.1 MB/s, avg 91.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G57.dat created; 1000000000 bytes at 90.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G58.dat
+bbcp: 210223 11:55:10  68% done; 88.7 MB/s, avg 88.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G58.dat created; 1000000000 bytes at 91.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G59.dat
+bbcp: 210223 11:55:21  74% done; 90.4 MB/s, avg 90.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G59.dat created; 1000000000 bytes at 80.1 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G5.dat
+bbcp: 210223 11:55:33  36% done; 43.6 MB/s, avg 43.6 MB/s
+bbcp: 210223 11:55:40  63% done; 37.5 MB/s, avg 40.7 MB/s
+bbcp: 210223 11:55:47  92% done; 38.4 MB/s, avg 40.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G5.dat created; 1000000000 bytes at 39.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G60.dat
+bbcp: 210223 11:55:57  30% done; 37.7 MB/s, avg 37.7 MB/s
+bbcp: 210223 11:56:04  56% done; 35.2 MB/s, avg 36.5 MB/s
+bbcp: 210223 11:56:11  84% done; 37.4 MB/s, avg 36.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G60.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G61.dat
+bbcp: 210223 11:56:23  30% done; 37.0 MB/s, avg 37.0 MB/s
+bbcp: 210223 11:56:30  57% done; 36.6 MB/s, avg 36.9 MB/s
+bbcp: 210223 11:56:37  83% done; 35.6 MB/s, avg 36.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G61.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G62.dat
+bbcp: 210223 11:56:49  29% done; 36.3 MB/s, avg 36.3 MB/s
+bbcp: 210223 11:56:56  57% done; 38.0 MB/s, avg 37.1 MB/s
+bbcp: 210223 11:57:03  83% done; 35.4 MB/s, avg 36.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G62.dat created; 1000000000 bytes at 36.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G63.dat
+bbcp: 210223 11:57:15  29% done; 35.3 MB/s, avg 35.3 MB/s
+bbcp: 210223 11:57:22  57% done; 37.7 MB/s, avg 36.4 MB/s
+bbcp: 210223 11:57:29  83% done; 36.5 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G63.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G64.dat
+bbcp: 210223 11:57:41  30% done; 36.0 MB/s, avg 36.0 MB/s
+bbcp: 210223 11:57:48  57% done; 36.8 MB/s, avg 36.4 MB/s
+bbcp: 210223 11:57:55  83% done; 35.3 MB/s, avg 36.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G64.dat created; 1000000000 bytes at 36.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G65.dat
+bbcp: 210223 11:58:07  29% done; 36.1 MB/s, avg 36.1 MB/s
+bbcp: 210223 11:58:14  56% done; 37.6 MB/s, avg 36.8 MB/s
+bbcp: 210223 11:58:21  82% done; 35.2 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G65.dat created; 1000000000 bytes at 36.8 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G66.dat
+bbcp: 210223 11:58:33  30% done; 37.2 MB/s, avg 37.2 MB/s
+bbcp: 210223 11:58:40  55% done; 34.4 MB/s, avg 35.9 MB/s
+bbcp: 210223 11:58:47  82% done; 37.4 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G66.dat created; 1000000000 bytes at 36.2 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G67.dat
+bbcp: 210223 11:58:59  29% done; 37.7 MB/s, avg 37.7 MB/s
+bbcp: 210223 11:59:06  55% done; 35.9 MB/s, avg 36.9 MB/s
+bbcp: 210223 11:59:13  81% done; 36.0 MB/s, avg 36.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G67.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G68.dat
+bbcp: 210223 11:59:25  28% done; 37.7 MB/s, avg 37.7 MB/s
+bbcp: 210223 11:59:32  55% done; 36.6 MB/s, avg 37.2 MB/s
+bbcp: 210223 11:59:39  81% done; 35.7 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G68.dat created; 1000000000 bytes at 36.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G69.dat
+bbcp: 210223 11:59:51  27% done; 35.8 MB/s, avg 35.8 MB/s
+bbcp: 210223 11:59:58  54% done; 36.6 MB/s, avg 36.2 MB/s
+bbcp: 210223 12:00:05  82% done; 37.6 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G69.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G6.dat
+bbcp: 210223 12:00:17  28% done; 37.4 MB/s, avg 37.4 MB/s
+bbcp: 210223 12:00:24  54% done; 35.1 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:00:31  81% done; 37.6 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G6.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G70.dat
+bbcp: 210223 12:00:43  27% done; 37.7 MB/s, avg 37.7 MB/s
+bbcp: 210223 12:00:50  53% done; 35.8 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:00:57  80% done; 36.7 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G70.dat created; 1000000000 bytes at 35.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G71.dat
+bbcp: 210223 12:01:10  29% done; 39.5 MB/s, avg 39.5 MB/s
+bbcp: 210223 12:01:17  58% done; 39.3 MB/s, avg 39.4 MB/s
+bbcp: 210223 12:01:24  84% done; 35.2 MB/s, avg 38.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G71.dat created; 1000000000 bytes at 38.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G72.dat
+bbcp: 210223 12:01:35  26% done; 34.9 MB/s, avg 34.9 MB/s
+bbcp: 210223 12:01:42  53% done; 37.7 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:01:49  80% done; 35.6 MB/s, avg 36.1 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G72.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G73.dat
+bbcp: 210223 12:02:02  30% done; 36.4 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:02:09  56% done; 35.8 MB/s, avg 36.1 MB/s
+bbcp: 210223 12:02:16  84% done; 37.7 MB/s, avg 36.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G73.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G74.dat
+bbcp: 210223 12:02:28  30% done; 37.5 MB/s, avg 37.5 MB/s
+bbcp: 210223 12:02:35  56% done; 35.0 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:02:42  84% done; 38.0 MB/s, avg 36.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G74.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G75.dat
+bbcp: 210223 12:02:54  30% done; 37.7 MB/s, avg 37.7 MB/s
+bbcp: 210223 12:03:01  56% done; 35.8 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:03:08  82% done; 36.1 MB/s, avg 36.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G75.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G76.dat
+bbcp: 210223 12:03:20  28% done; 36.4 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:03:27  56% done; 38.1 MB/s, avg 37.2 MB/s
+bbcp: 210223 12:03:34  82% done; 34.8 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G76.dat created; 1000000000 bytes at 36.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G77.dat
+bbcp: 210223 12:03:46  28% done; 35.5 MB/s, avg 35.5 MB/s
+bbcp: 210223 12:03:53  56% done; 37.6 MB/s, avg 36.5 MB/s
+bbcp: 210223 12:04:00  82% done; 35.7 MB/s, avg 36.2 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G77.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G78.dat
+bbcp: 210223 12:04:12  28% done; 36.0 MB/s, avg 36.0 MB/s
+bbcp: 210223 12:04:19  55% done; 36.4 MB/s, avg 36.2 MB/s
+bbcp: 210223 12:04:26  83% done; 38.0 MB/s, avg 36.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G78.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G79.dat
+bbcp: 210223 12:04:38  29% done; 37.4 MB/s, avg 37.4 MB/s
+bbcp: 210223 12:04:45  56% done; 37.0 MB/s, avg 37.2 MB/s
+bbcp: 210223 12:04:52  82% done; 34.6 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G79.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G7.dat
+bbcp: 210223 12:05:04  28% done; 35.9 MB/s, avg 35.9 MB/s
+bbcp: 210223 12:05:11  55% done; 37.6 MB/s, avg 36.7 MB/s
+bbcp: 210223 12:05:18  81% done; 35.1 MB/s, avg 36.2 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G7.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G80.dat
+bbcp: 210223 12:05:30  27% done; 35.1 MB/s, avg 35.1 MB/s
+bbcp: 210223 12:05:37  55% done; 37.5 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:05:44  81% done; 36.2 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G80.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G81.dat
+bbcp: 210223 12:05:56  28% done; 36.7 MB/s, avg 36.7 MB/s
+bbcp: 210223 12:06:03  52% done; 33.9 MB/s, avg 35.3 MB/s
+bbcp: 210223 12:06:10  81% done; 38.9 MB/s, avg 36.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G81.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G82.dat
+bbcp: 210223 12:06:22  27% done; 37.8 MB/s, avg 37.8 MB/s
+bbcp: 210223 12:06:29  54% done; 35.6 MB/s, avg 36.7 MB/s
+bbcp: 210223 12:06:36  81% done; 37.6 MB/s, avg 37.0 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G82.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G83.dat
+bbcp: 210223 12:06:48  27% done; 37.0 MB/s, avg 37.0 MB/s
+bbcp: 210223 12:06:55  53% done; 36.2 MB/s, avg 36.6 MB/s
+bbcp: 210223 12:07:02  80% done; 36.0 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G83.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G84.dat
+bbcp: 210223 12:07:15  29% done; 35.8 MB/s, avg 35.8 MB/s
+bbcp: 210223 12:07:22  57% done; 38.0 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:07:29  83% done; 35.2 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G84.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G85.dat
+bbcp: 210223 12:07:41  29% done; 35.3 MB/s, avg 35.3 MB/s
+bbcp: 210223 12:07:48  55% done; 36.3 MB/s, avg 35.8 MB/s
+bbcp: 210223 12:07:55  82% done; 36.0 MB/s, avg 35.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G85.dat created; 1000000000 bytes at 36.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G86.dat
+bbcp: 210223 12:08:07  29% done; 36.3 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:08:14  55% done; 35.7 MB/s, avg 36.0 MB/s
+bbcp: 210223 12:08:21  82% done; 37.4 MB/s, avg 36.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G86.dat created; 1000000000 bytes at 36.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G87.dat
+bbcp: 210223 12:08:33  28% done; 37.5 MB/s, avg 37.5 MB/s
+bbcp: 210223 12:08:40  54% done; 35.3 MB/s, avg 36.5 MB/s
+bbcp: 210223 12:08:47  82% done; 37.4 MB/s, avg 36.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G87.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G88.dat
+bbcp: 210223 12:08:59  28% done; 37.5 MB/s, avg 37.5 MB/s
+bbcp: 210223 12:09:06  55% done; 36.8 MB/s, avg 37.1 MB/s
+bbcp: 210223 12:09:13  81% done; 35.9 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G88.dat created; 1000000000 bytes at 36.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G89.dat
+bbcp: 210223 12:09:25  27% done; 36.1 MB/s, avg 36.1 MB/s
+bbcp: 210223 12:09:32  55% done; 37.6 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:09:39  81% done; 35.2 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G89.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G8.dat
+bbcp: 210223 12:09:51  26% done; 34.8 MB/s, avg 34.8 MB/s
+bbcp: 210223 12:09:58  54% done; 38.2 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:10:05  81% done; 36.3 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G8.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G90.dat
+bbcp: 210223 12:10:17  27% done; 36.4 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:10:24  54% done; 35.8 MB/s, avg 36.1 MB/s
+bbcp: 210223 12:10:31  81% done; 37.7 MB/s, avg 36.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G90.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G91.dat
+bbcp: 210223 12:10:43  27% done; 37.5 MB/s, avg 37.5 MB/s
+bbcp: 210223 12:10:50  53% done; 35.5 MB/s, avg 36.5 MB/s
+bbcp: 210223 12:10:57  81% done; 37.6 MB/s, avg 36.9 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G91.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G92.dat
+bbcp: 210223 12:11:10  30% done; 36.6 MB/s, avg 36.6 MB/s
+bbcp: 210223 12:11:17  57% done; 36.4 MB/s, avg 36.5 MB/s
+bbcp: 210223 12:11:24  83% done; 36.1 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G92.dat created; 1000000000 bytes at 36.6 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G93.dat
+bbcp: 210223 12:11:36  29% done; 36.0 MB/s, avg 36.0 MB/s
+bbcp: 210223 12:11:43  57% done; 37.8 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:11:50  83% done; 35.1 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G93.dat created; 1000000000 bytes at 36.8 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G94.dat
+bbcp: 210223 12:12:02  29% done; 35.6 MB/s, avg 35.6 MB/s
+bbcp: 210223 12:12:09  57% done; 37.5 MB/s, avg 36.5 MB/s
+bbcp: 210223 12:12:16  84% done; 37.4 MB/s, avg 36.8 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G94.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G95.dat
+bbcp: 210223 12:12:28  30% done; 36.3 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:12:35  56% done; 35.9 MB/s, avg 36.1 MB/s
+bbcp: 210223 12:12:42  84% done; 38.0 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G95.dat created; 1000000000 bytes at 36.3 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G96.dat
+bbcp: 210223 12:12:54  30% done; 37.6 MB/s, avg 37.6 MB/s
+bbcp: 210223 12:13:01  56% done; 35.2 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:13:08  83% done; 37.3 MB/s, avg 36.7 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G96.dat created; 1000000000 bytes at 36.5 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G97.dat
+bbcp: 210223 12:13:20  29% done; 37.0 MB/s, avg 37.0 MB/s
+bbcp: 210223 12:13:27  56% done; 36.5 MB/s, avg 36.8 MB/s
+bbcp: 210223 12:13:34  82% done; 36.2 MB/s, avg 36.6 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G97.dat created; 1000000000 bytes at 36.7 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G98.dat
+bbcp: 210223 12:13:46  28% done; 36.3 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:13:53  56% done; 38.0 MB/s, avg 37.1 MB/s
+bbcp: 210223 12:14:00  82% done; 34.9 MB/s, avg 36.4 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G98.dat created; 1000000000 bytes at 36.9 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G99.dat
+bbcp: 210223 12:14:12  28% done; 35.4 MB/s, avg 35.4 MB/s
+bbcp: 210223 12:14:19  56% done; 37.3 MB/s, avg 36.3 MB/s
+bbcp: 210223 12:14:26  82% done; 36.4 MB/s, avg 36.3 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G99.dat created; 1000000000 bytes at 36.4 MB/s
+bbcp: Creating /home/nsf21528/data/nsf21-528-100g/1G9.dat
+bbcp: 210223 12:14:38  28% done; 36.4 MB/s, avg 36.4 MB/s
+bbcp: 210223 12:14:45  54% done; 35.6 MB/s, avg 36.0 MB/s
+bbcp: 210223 12:14:52  82% done; 37.6 MB/s, avg 36.5 MB/s
+File /home/nsf21528/data/nsf21-528-100g/1G9.dat created; 1000000000 bytes at 36.3 MB/s
+100 files copied at effectively 54.3 MB/s

@@ -100,7 +100,7 @@ iperf3 from Caltech to Caltech:  Not available.
 iperf3 from Caltech to Claremont-HMC:  Not available.
 iperf3 from Caltech to KGI:  Not available.
 iperf3 from Caltech to LMU:    Stream1: 984 Mbits/sec    Stream2: 963 Mbits/sec  
-iperf3 from Caltech to Oxy:  Not available.
+iperf3 from Caltech to Oxy:    Stream1: 797 Mbits/sec    Stream2: 816 Mbits/sec  
 iperf3 from Caltech to Pomona:    Stream2: 922 Mbits/sec    Stream1: 1.02 Gbits/sec  
 iperf3 from Caltech to USC:    Stream1: 2.31 Gbits/sec    Stream2: 2.48 Gbits/sec  
 iperf3 from Claremont-HMC to Caltech:  Not available.
@@ -149,7 +149,7 @@ bbcp from Caltech to Caltech:  Not available.
 bbcp from Caltech to Claremont-HMC:  Not available.
 bbcp from Caltech to KGI:  Not available.
 bbcp from Caltech to LMU:    1 file copied at 105.6 MB/s    100 files copied at 89.5 MB/s  
-bbcp from Caltech to Oxy:  Not available.
+bbcp from Caltech to Oxy:    1 file copied at 101.1 MB/s    100 files copied at 54.3 MB/s  
 bbcp from Caltech to Pomona:    1 file copied at 93.0 MB/s    100 files copied at 80.4 MB/s  
 bbcp from Caltech to USC:    1 file copied at 103.9 MB/s    100 files copied at 89.3 MB/s  
 bbcp from Claremont-HMC to Caltech:  Not available.
