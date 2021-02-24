@@ -26,7 +26,7 @@ ping from LMU to LMU:   Not available.
 ping from LMU to Oxy:   4.68 ms average
 ping from LMU to Pomona:   5.02 ms average
 ping from LMU to USC:   3.21 ms average
-ping from Oxy to Caltech:   Not available.
+ping from Oxy to Caltech:   4.16 ms average
 ping from Oxy to Claremont-HMC:   Not available.
 ping from Oxy to KGI:   Not available.
 ping from Oxy to LMU:   5.12 ms average
@@ -75,7 +75,7 @@ traceroute from LMU to LMU:   Not available.
 traceroute from LMU to Oxy:     Hops: 10
 traceroute from LMU to Pomona:     Hops: 10
 traceroute from LMU to USC:     Hops: 11
-traceroute from Oxy to Caltech:   Not available.
+traceroute from Oxy to Caltech:     Hops: 6
 traceroute from Oxy to Claremont-HMC:   Not available.
 traceroute from Oxy to KGI:   Not available.
 traceroute from Oxy to LMU:     Hops: 21
@@ -124,7 +124,7 @@ iperf3 from LMU to LMU:  Not available.
 iperf3 from LMU to Oxy:    Stream1: 2.33 Gbits/sec    Stream2: 2.22 Gbits/sec  
 iperf3 from LMU to Pomona:    Stream2: 2.20 Gbits/sec    Stream1: 2.13 Gbits/sec  
 iperf3 from LMU to USC:    Stream1: 1.55 Gbits/sec    Stream2: 1.65 Gbits/sec  
-iperf3 from Oxy to Caltech:  Not available.
+iperf3 from Oxy to Caltech:    Stream2: 1.21 Gbits/sec    Stream1: 1.12 Gbits/sec  
 iperf3 from Oxy to Claremont-HMC:  Not available.
 iperf3 from Oxy to KGI:  Not available.
 iperf3 from Oxy to LMU:    Stream1: 2.29 Gbits/sec    Stream2: 2.32 Gbits/sec  
@@ -173,7 +173,7 @@ bbcp from LMU to LMU:  Not available.
 bbcp from LMU to Oxy:    1 file copied at 171.8 MB/s    100 files copied at 36.5 MB/s  
 bbcp from LMU to Pomona:    1 file copied at 95.8 MB/s    100 files copied at 96.8 MB/s  
 bbcp from LMU to USC:    1 file copied at 308.3 MB/s    100 files copied at 247.4 MB/s  
-bbcp from Oxy to Caltech:  Not available.
+bbcp from Oxy to Caltech:    1 file copied at 37.4 MB/s    100 files copied at 40.4 MB/s  
 bbcp from Oxy to Claremont-HMC:  Not available.
 bbcp from Oxy to KGI:  Not available.
 bbcp from Oxy to LMU:    1 file copied at 418.8 MB/s    100 files copied at 445.5 MB/s  
