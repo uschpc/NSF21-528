@@ -1,0 +1,10 @@
+PING 134.69.33.33 (134.69.33.33) 56(84) bytes of data.
+64 bytes from 134.69.33.33: icmp_seq=1 ttl=58 time=3.91 ms
+64 bytes from 134.69.33.33: icmp_seq=2 ttl=59 time=3.86 ms
+64 bytes from 134.69.33.33: icmp_seq=3 ttl=59 time=3.73 ms
+64 bytes from 134.69.33.33: icmp_seq=4 ttl=59 time=3.89 ms
+64 bytes from 134.69.33.33: icmp_seq=5 ttl=59 time=3.70 ms
+^C
+--- 134.69.33.33 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 3.701/3.818/3.912/0.086 ms
