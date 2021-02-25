@@ -54,10 +54,10 @@ traceroute from Caltech to LMU:   Blocked or unreachable. (!X)
 traceroute from Caltech to Oxy:   Blocked or unreachable. (* * *)
 traceroute from Caltech to Pomona:   Blocked or unreachable. (* * *)
 traceroute from Caltech to USC:     Hops: 8
-traceroute from Claremont-HMC to Caltech:   Not available.
+traceroute from Claremont-HMC to Caltech:     Hops: 6
 traceroute from Claremont-HMC to Claremont-HMC:   Not available.
 traceroute from Claremont-HMC to KGI:   Not available.
-traceroute from Claremont-HMC to LMU:   Blocked or unreachable. (*  *  *)
+traceroute from Claremont-HMC to LMU:     Hops: 21
 traceroute from Claremont-HMC to Oxy:   Blocked or unreachable. (*  *  *)
 traceroute from Claremont-HMC to Pomona:   Blocked or unreachable. (*  *  *)
 traceroute from Claremont-HMC to USC:     Hops: 9
