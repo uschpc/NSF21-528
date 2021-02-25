@@ -1,0 +1,13 @@
+PING 68.181.11.10 (68.181.11.10) 56(84) bytes of data.
+64 bytes from 68.181.11.10: icmp_seq=1 ttl=56 time=3.59 ms
+64 bytes from 68.181.11.10: icmp_seq=2 ttl=56 time=3.57 ms
+64 bytes from 68.181.11.10: icmp_seq=3 ttl=56 time=3.69 ms
+64 bytes from 68.181.11.10: icmp_seq=4 ttl=56 time=3.33 ms
+64 bytes from 68.181.11.10: icmp_seq=5 ttl=56 time=3.70 ms
+64 bytes from 68.181.11.10: icmp_seq=6 ttl=56 time=3.51 ms
+64 bytes from 68.181.11.10: icmp_seq=7 ttl=56 time=3.75 ms
+64 bytes from 68.181.11.10: icmp_seq=8 ttl=56 time=3.60 ms
+^C
+--- 68.181.11.10 ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7014ms
+rtt min/avg/max/mdev = 3.329/3.593/3.752/0.124 ms

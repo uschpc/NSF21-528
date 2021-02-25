@@ -8,10 +8,10 @@ ping from Caltech to USC:   2.09 ms average
 ping from Claremont-HMC to Caltech:   3.66 ms average
 ping from Claremont-HMC to Claremont-HMC:   Not available.
 ping from Claremont-HMC to KGI:   Not available.
-ping from Claremont-HMC to LMU:   Not available.
+ping from Claremont-HMC to LMU:   5.19 ms average
 ping from Claremont-HMC to Oxy:   3.82 ms average
 ping from Claremont-HMC to Pomona:   0.65 ms average
-ping from Claremont-HMC to USC:   Not available.
+ping from Claremont-HMC to USC:   3.59 ms average
 ping from KGI to Caltech:   3.68 ms average
 ping from KGI to Claremont-HMC:   Not available.
 ping from KGI to KGI:   Not available.
