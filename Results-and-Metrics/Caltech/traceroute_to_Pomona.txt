@@ -5,4 +5,3 @@ traceroute to 134.173.65.144 (134.173.65.144), 30 hops max, 60 byte packets
  4  Pomona2.Router.Claremont.Edu (134.173.253.26)  2.497 ms  2.492 ms  2.463 ms
  5  * * *
  6  pom-itb-dgx01.campus.pomona.edu (134.173.65.144)  2.451 ms  2.441 ms  2.499 ms
- 
